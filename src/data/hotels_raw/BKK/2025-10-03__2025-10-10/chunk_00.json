@@ -1,0 +1,543 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "CYBKKCYC",
+        "chainCode": "CY",
+        "dupeId": "700047041",
+        "name": "Courtyard by Marriott Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.74018,
+        "longitude": 100.5422
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "SNESTV0FIB",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "room": {
+            "type": "LTA",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Long Term Stay rate\nRenovated Deluxe King Room, 1 King, Mini\nfridge, 30sqm/323sqft, Wireless internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "23862.00",
+            "total": "28085.56",
+            "variations": {
+              "average": {
+                "base": "3408.86"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "3492.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "3686.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "3492.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-10",
+                  "base": "3298.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "amount": "3736.44",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/SNESTV0FIB",
+          "roomInformation": {
+            "description": "Long Term Stay rate\nRenovated Deluxe King Room, 1 King, Mini\nfridge, 30sqm/323sqft, Wireless internet,",
+            "type": "LTA",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=CYBKKCYC&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "HIBKK47E",
+        "chainCode": "HI",
+        "dupeId": "700034865",
+        "name": "HOLIDAY INN BANGKOK",
+        "cityCode": "BKK",
+        "latitude": 13.74398,
+        "longitude": 100.5443
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "925Q2BWIJV",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "005",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "27069.00",
+            "total": "31860.22",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "percentage": "7.70",
+                "included": false
+              },
+              {
+                "code": "SERVICE_CHARGE",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "10.00",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "3867.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "4022.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "4398.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "3661.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "4094.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "3832.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "3481.00"
+                },
+                {
+                  "startDate": "2025-10-09",
+                  "endDate": "2025-10-10",
+                  "base": "3581.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC",
+                  "CU"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "CU"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/925Q2BWIJV",
+          "roomInformation": {
+            "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=HIBKK47E&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "ICBKKICB",
+        "chainCode": "IC",
+        "dupeId": "700012671",
+        "name": "INTERCONTINENTAL BANGKOK",
+        "cityCode": "BKK",
+        "latitude": 13.74572,
+        "longitude": 100.54084
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "RKK647D15K",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "005",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "BOOK EARLY ADVANCE PURCHASE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "51903.00",
+            "total": "61089.83",
+            "taxes": [
+              {
+                "code": "SERVICE_CHARGE",
+                "amount": "5190.30",
+                "currency": "THB",
+                "included": false
+              },
+              {
+                "code": "NATIONAL_GOVERNMENT_TAX",
+                "amount": "3996.53",
+                "currency": "THB",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "7414.71"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "7984.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "8635.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "7509.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "7347.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "6863.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "6792.00"
+                },
+                {
+                  "startDate": "2025-10-09",
+                  "endDate": "2025-10-10",
+                  "base": "6773.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC",
+                  "CU"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "CU"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/RKK647D15K",
+          "roomInformation": {
+            "description": "BOOK EARLY ADVANCE PURCHASE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=ICBKKICB&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "XRBKK199",
+        "chainCode": "XR",
+        "dupeId": "700141971",
+        "name": "The St Regis Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.73977,
+        "longitude": 100.54002
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "LYJSB5JGVR",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "room": {
+            "type": "REG",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Flexible Rate\nDeluxe Rooms offer Floor-to-ceiling windows\nwith abundant natural light, 1 King, Mini",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "71100.00",
+            "total": "83684.70",
+            "variations": {
+              "average": {
+                "base": "10157.14"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "10600.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "10500.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-07",
+                  "base": "10300.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-10",
+                  "base": "9800.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "amount": "11342.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/LYJSB5JGVR",
+          "roomInformation": {
+            "description": "Flexible Rate\nDeluxe Rooms offer Floor-to-ceiling windows\nwith abundant natural light, 1 King, Mini",
+            "type": "REG",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=XRBKK199&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3289,
+      "title": "RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "detail": "Provider Error - RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "source": {
+        "parameter": "hotelIds=RTBKKMGA"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=MCBKKERM,RTBKKNOV,RTBKKPLO"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=WVBKK308"
+      }
+    }
+  ]
+}

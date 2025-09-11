@@ -1,0 +1,601 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "HIBKK426",
+        "chainCode": "HI",
+        "dupeId": "700181648",
+        "name": "Holiday Inn BKK Sukhumvit",
+        "cityCode": "BKK",
+        "latitude": 13.72462,
+        "longitude": 100.56471
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "YU0SHUQGYH",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "005",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "22915.00",
+            "total": "26970.96",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "percentage": "7.70",
+                "included": false
+              },
+              {
+                "code": "SERVICE_CHARGE",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "10.00",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "3273.57"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "3212.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "3225.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "3212.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "3357.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "3395.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "3255.00"
+                },
+                {
+                  "startDate": "2025-10-09",
+                  "endDate": "2025-10-10",
+                  "base": "3259.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/YU0SHUQGYH",
+          "roomInformation": {
+            "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=HIBKK426&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCBKKMSM",
+        "chainCode": "MC",
+        "dupeId": "700188684",
+        "name": "Bangkok Marriott Hotel Sukhumvit",
+        "cityCode": "BKK",
+        "latitude": 13.72441,
+        "longitude": 100.56652
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "P1KJFGE040",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "ROM",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "ZEY",
+            "typeEstimated": {
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer Save More, 20% discount on F&B\n1 King, Whirlpool fits 1, Mini fridge,\n36sqm/387sqft, Living/sitting area, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "38237.50",
+            "total": "45005.54",
+            "variations": {
+              "average": {
+                "base": "5462.50"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-10",
+                  "base": "5462.50"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "amount": "5844.88",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/P1KJFGE040",
+          "roomInformation": {
+            "description": "Stay Longer Save More, 20% discount on F&B\n1 King, Whirlpool fits 1, Mini fridge,\n36sqm/387sqft, Living/sitting area, Wireless",
+            "type": "ZEY",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCBKKMSM&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCBKKSPM",
+        "chainCode": "MC",
+        "dupeId": "700128264",
+        "name": "Sukhumvit Park Bangkok - Marriott Executive Apartments",
+        "cityCode": "BKK",
+        "latitude": 13.72749,
+        "longitude": 100.56816
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "M69USCVE1F",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "L0I",
+            "typeEstimated": {
+              "category": "STUDIO",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Extended Stay Offer, breakfast daily, 5+ Nights\nStudio, 1 King, Kitchenette, 45sqm/484sqft,\nLiving/sitting area, Dining area, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "31255.00",
+            "total": "36787.14",
+            "variations": {
+              "average": {
+                "base": "4465.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-10",
+                  "base": "4465.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "amount": "4777.55",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/M69USCVE1F",
+          "roomInformation": {
+            "description": "Extended Stay Offer, breakfast daily, 5+ Nights\nStudio, 1 King, Kitchenette, 45sqm/484sqft,\nLiving/sitting area, Dining area, Wireless",
+            "type": "L0I",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "STUDIO"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCBKKSPM&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKLOT",
+        "chainCode": "RT",
+        "dupeId": "700010551",
+        "name": "Bangkok Hotel Lotus Sukhumvit",
+        "cityCode": "BKK",
+        "latitude": 13.73329,
+        "longitude": 100.56673
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "MWG2YL1048",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "1SL",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "B1D",
+            "typeEstimated": {
+              "category": "SUPERIOR_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Best Rate-Room only\nSuperior King Bed Room",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "15492.00",
+            "variations": {
+              "average": {
+                "total": "2213.14"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-05",
+                  "base": "1950.00",
+                  "total": "1950.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "2184.00",
+                  "total": "2184.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-10",
+                  "base": "2352.00",
+                  "total": "2352.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T00:00:00+07:00",
+                "description": {
+                  "text": "No cancellation charge applies up to 1 day prior to arrival. Beyond that time, the first night will be charged."
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "holdTime": {
+              "deadline": "2025-10-03T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "TRAVEL_AGENT_ID",
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/MWG2YL1048",
+          "roomInformation": {
+            "description": "Best Rate-Room only\nSuperior King Bed Room",
+            "type": "B1D",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "SUPERIOR_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKLOT&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "SIBKK172",
+        "chainCode": "SI",
+        "dupeId": "700002569",
+        "name": "Royal Orchid Sheraton Hotel and Towers",
+        "cityCode": "BKK",
+        "latitude": 13.72893,
+        "longitude": 100.51404
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "W819JDJ0J3",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "LDB",
+            "typeEstimated": {
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer Save More, buffet breakfast daily\nGuaranteed panoramic river view with floor to\nceiling window, 1 King, 36sqm/387sqft,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "31275.00",
+            "total": "36810.69",
+            "variations": {
+              "average": {
+                "base": "4467.86"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-05",
+                  "base": "4905.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "4455.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "4275.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "4185.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-10",
+                  "base": "4275.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-03T18:00:00+07:00",
+                "amount": "5248.35",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/W819JDJ0J3",
+          "roomInformation": {
+            "description": "Stay Longer Save More, buffet breakfast daily\nGuaranteed panoramic river view with floor to\nceiling window, 1 King, 36sqm/387sqft,",
+            "type": "LDB",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=SIBKK172&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1351,
+      "title": "VERIFY CHAIN/REP CODE",
+      "detail": "Provider Error - VERIFY CHAIN/REP CODE",
+      "source": {
+        "parameter": "hotelIds=FGBKKGCP"
+      }
+    },
+    {
+      "code": 1,
+      "title": "CHECK FORMAT",
+      "detail": "Provider Error - CHECK FORMAT",
+      "source": {
+        "parameter": "hotelIds=HLBKK101,HLBKK999"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RTBKKGMP"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIBKK849,UIBKKAGB"
+      }
+    }
+  ]
+}

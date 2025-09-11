@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCBKKBPM",
+        "chainCode": "MC",
+        "dupeId": "700189984",
+        "name": "Marriott Executive Apartments Bangkok Sukhumvit Thonglor",
+        "cityCode": "BKK",
+        "latitude": 13.72328,
+        "longitude": 100.58026
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "RI05H7YR2R",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "LTS",
+            "typeEstimated": {
+              "category": "RESIDENTIAL_APARTMENT",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Long Stay Rate, 20 percent off on F&B, Spa & Laundry, includes\nOne Bedroom Apartment, 1 King, Full kitchen,\nMini fridge, Microwave, 55sqm/592sqft,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "32193.00",
+            "total": "37891.16",
+            "variations": {
+              "average": {
+                "base": "4599.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-10",
+                  "base": "4599.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-01T23:59:00+07:00",
+                "amount": "4920.93",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/RI05H7YR2R",
+          "roomInformation": {
+            "description": "Long Stay Rate, 20 percent off on F&B, Spa & Laundry, includes\nOne Bedroom Apartment, 1 King, Full kitchen,\nMini fridge, Microwave, 55sqm/592sqft,",
+            "type": "LTS",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "RESIDENTIAL_APARTMENT"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCBKKBPM&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=DHBKKAVB,DHBKKAWB"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=WVBKK941"
+      }
+    }
+  ]
+}

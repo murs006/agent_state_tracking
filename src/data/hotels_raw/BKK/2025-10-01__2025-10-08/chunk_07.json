@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKBAN",
+        "chainCode": "RT",
+        "dupeId": "700010529",
+        "name": "Novotel Bangkok Bangna",
+        "cityCode": "BKK",
+        "latitude": 13.67312,
+        "longitude": 100.64671
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "C6CNF3OR7O",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "1SL",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "B1D",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 2,
+              "bedType": "SINGLE"
+            },
+            "description": {
+              "text": "Best Rate-Room only\nStandard 2 Single Beds Smoking Room",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "24250.00",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "MISCELLANEOUS",
+                "pricingFrequency": "PER_STAY",
+                "pricingMode": "PER_OCCUPANT",
+                "amount": "100.00",
+                "currency": "THB",
+                "included": true
+              },
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "VAT_GST_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_OCCUPANT",
+                "percentage": "25.00",
+                "included": true
+              },
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "CITY_TAX",
+                "pricingFrequency": "PER_STAY",
+                "pricingMode": "PER_PRODUCT",
+                "amount": "10.00",
+                "currency": "THB",
+                "included": true
+              },
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_STAY",
+                "pricingMode": "PER_PRODUCT",
+                "amount": "200.00",
+                "currency": "THB",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "3464.29"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "2520.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "2340.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "2520.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T00:00:00+07:00",
+                "description": {
+                  "text": "No cancellation charge applies up to 1 day prior to arrival. Beyond that time, the first night will be charged."
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "holdTime": {
+              "deadline": "2025-10-01T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "BA",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "BA"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/C6CNF3OR7O",
+          "roomInformation": {
+            "description": "Best Rate-Room only\nStandard 2 Single Beds Smoking Room",
+            "type": "B1D",
+            "typeEstimated": {
+              "bedType": "SINGLE",
+              "beds": 2,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKBAN&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 11,
+      "title": "UNABLE TO PROCESS",
+      "detail": "Provider Error - UNABLE TO PROCESS",
+      "source": {
+        "parameter": "hotelIds=GZBKKMPB"
+      }
+    },
+    {
+      "code": 3494,
+      "title": "ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "detail": "Provider Error - ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "source": {
+        "parameter": "hotelIds=ONBKKRYP"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIBKKAPB,UIBKKCSB,UIBKKSOF"
+      }
+    }
+  ]
+}

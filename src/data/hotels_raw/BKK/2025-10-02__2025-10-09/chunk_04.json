@@ -1,0 +1,418 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "PUBKKMON",
+        "chainCode": "PU",
+        "dupeId": "700002574",
+        "name": "Pullman Bangkok Hotel G",
+        "cityCode": "BKK",
+        "latitude": 13.7258,
+        "longitude": 100.52593
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "N2M1RX63QG",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "2PL",
+          "rateFamilyEstimated": {
+            "code": "PKG",
+            "type": "P"
+          },
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "A1K",
+            "typeEstimated": {
+              "category": "EXECUTIVE_ROOM",
+              "beds": 2,
+              "bedType": "SINGLE"
+            },
+            "description": {
+              "text": "Promotion Rate-BB/Bed+Brkfast\nExecutive Room 2 Single Beds",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "25334.92",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-02",
+                  "end": "2025-10-08"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "17.70",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "3619.27"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-09",
+                  "base": "3075.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2025-10-01T00:00:00+07:00",
+                "description": {
+                  "text": "The amount due is not refundable even if the booking is cancelled or modified."
+                },
+                "percentage": "100",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "deposit": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "deposit",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/N2M1RX63QG",
+          "roomInformation": {
+            "description": "Promotion Rate-BB/Bed+Brkfast\nExecutive Room 2 Single Beds",
+            "type": "A1K",
+            "typeEstimated": {
+              "bedType": "SINGLE",
+              "beds": 2,
+              "category": "EXECUTIVE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=PUBKKMON&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKFOR",
+        "chainCode": "RT",
+        "dupeId": "700016103",
+        "name": "Grand Mercure Bangkok Fortune",
+        "cityCode": "BKK",
+        "latitude": 13.75672,
+        "longitude": 100.56464
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "HSAI93G3YH",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "1SL",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "B1K",
+            "typeEstimated": {
+              "category": "SUPERIOR_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Best Rate-Room only\nSuperior 1 King bed",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "17591.44",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-02",
+                  "end": "2025-10-08"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "17.70",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "2513.06"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "2067.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "2226.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-09",
+                  "base": "2067.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "description": {
+                  "text": "No cancellation charge applies if booking cancelled until day of arrival."
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "holdTime": {
+              "deadline": "2025-10-02T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "TRAVEL_AGENT_ID",
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/HSAI93G3YH",
+          "roomInformation": {
+            "description": "Best Rate-Room only\nSuperior 1 King bed",
+            "type": "B1K",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "SUPERIOR_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKFOR&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "WHBKK258",
+        "chainCode": "WH",
+        "dupeId": "700183608",
+        "name": "W Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.72221,
+        "longitude": 100.52902
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "XCUFA9EK8O",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "room": {
+            "type": "REG",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 2,
+              "bedType": "QUEEN"
+            },
+            "description": {
+              "text": "Flexible Rate\nStandard Room, 2 Queen, Mini fridge,\n41sqm/441sqft, Wireless internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "42200.00",
+            "total": "49669.40",
+            "variations": {
+              "average": {
+                "base": "6028.57"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-06",
+                  "base": "6200.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-09",
+                  "base": "5800.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-01T23:59:00+07:00",
+                "amount": "6634.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/XCUFA9EK8O",
+          "roomInformation": {
+            "description": "Flexible Rate\nStandard Room, 2 Queen, Mini fridge,\n41sqm/441sqft, Wireless internet,",
+            "type": "REG",
+            "typeEstimated": {
+              "bedType": "QUEEN",
+              "beds": 2,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=WHBKK258&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1351,
+      "title": "VERIFY CHAIN/REP CODE",
+      "detail": "Provider Error - VERIFY CHAIN/REP CODE",
+      "source": {
+        "parameter": "hotelIds=FGBKKBEL"
+      }
+    },
+    {
+      "code": 4070,
+      "title": "UNABLE TO PROCESS - CONTACT HELP DESK",
+      "detail": "Provider Error - UNABLE TO PROCESS - CONTACT HELP DESK",
+      "source": {
+        "parameter": "hotelIds=RTBKKSAT"
+      }
+    },
+    {
+      "code": 3494,
+      "title": "ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "detail": "Provider Error - ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "source": {
+        "parameter": "hotelIds=ONBKKMGH,SXBKKFSB"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RDBKK591,WKBKKREM,WVBKK43P"
+      }
+    }
+  ]
+}

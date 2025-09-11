@@ -1,0 +1,561 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "HIBKKCAC",
+        "chainCode": "HI",
+        "dupeId": "700002563",
+        "name": "HOLIDAY INN BANGKOK SILOM",
+        "cityCode": "BKK",
+        "latitude": 13.72714,
+        "longitude": 100.53008
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "WAQ6EX5BJT",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "005",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "*1K",
+            "typeEstimated": {
+              "category": "PREMIUM_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "BOOK EARLY ADVANCE PURCHASE\n1 King Premium CityView Non Smoking 36 SqM Room\nwith Free High Speed Internet Kids Stay and Eat",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "35505.00",
+            "total": "41789.39",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "percentage": "7.70",
+                "included": false
+              },
+              {
+                "code": "SERVICE_CHARGE",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "10.00",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "5072.14"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "5514.00"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "5675.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "5025.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "5172.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "4341.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "4882.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "4896.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC",
+                  "CU"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "CU"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/WAQ6EX5BJT",
+          "roomInformation": {
+            "description": "BOOK EARLY ADVANCE PURCHASE\n1 King Premium CityView Non Smoking 36 SqM Room\nwith Free High Speed Internet Kids Stay and Eat",
+            "type": "*1K",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "PREMIUM_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=HIBKKCAC&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCBKKEAM",
+        "chainCode": "MC",
+        "dupeId": "700096705",
+        "name": "Sathorn Vista Bangkok - Marriott Executive Apartments",
+        "cityCode": "BKK",
+        "latitude": 13.72335,
+        "longitude": 100.53684
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "DPJ8U0L8Z9",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "ECP",
+            "typeEstimated": {
+              "category": "SUITE",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Weekly Package Room Only, prepay in full, non-refundable\n1 Bedroom Deluxe Suite, 1 King, Full kitchen,\nMicrowave, 65sqm/699sqft, Living/sitting",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "29737.83",
+            "total": "35001.43",
+            "variations": {
+              "average": {
+                "base": "4248.26"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "4135.12"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "4487.12"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-05",
+                  "base": "4663.12"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "4311.12"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "3783.12"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "3695.12"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "description": {
+                  "text": "NON-REFUNDABLE RATE"
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "deposit",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/DPJ8U0L8Z9",
+          "roomInformation": {
+            "description": "Weekly Package Room Only, prepay in full, non-refundable\n1 Bedroom Deluxe Suite, 1 King, Full kitchen,\nMicrowave, 65sqm/699sqft, Living/sitting",
+            "type": "ECP",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "SUITE"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCBKKEAM&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKASO",
+        "chainCode": "RT",
+        "dupeId": "700132030",
+        "name": "Grand Mercure Bangkok Asoke Residence",
+        "cityCode": "BKK",
+        "latitude": 13.74167,
+        "longitude": 100.56083
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "US1VJU2XIO",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "1SL",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "B1K",
+            "typeEstimated": {
+              "category": "SUITE",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Best Rate-Room only\nDeluxe Suite 1 King Bed",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "23145.70",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "17.70",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "3306.53"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "2898.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "2691.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "2898.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T18:01:00+07:00",
+                "description": {
+                  "text": "No cancellation charge applies prior to 18:00(local time) on the day of arrival. Beyond that time, the first night will be charged."
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "holdTime": {
+              "deadline": "2025-10-01T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/US1VJU2XIO",
+          "roomInformation": {
+            "description": "Best Rate-Room only\nDeluxe Suite 1 King Bed",
+            "type": "B1K",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "SUITE"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKASO&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "WIBKK446",
+        "chainCode": "WI",
+        "dupeId": "700034864",
+        "name": "The Westin Grande Sukhumvit Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.73825,
+        "longitude": 100.56126
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "UALY1QYS8T",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "LDB",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer Save More\nDeluxe, 1 King, Tub with spray jets, Mini\nfridge, 40sqm/430sqft-45sqm/484sqft, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "39282.50",
+            "total": "46235.51",
+            "variations": {
+              "average": {
+                "base": "5611.79"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "5890.00"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "6127.50"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "5605.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-06",
+                  "base": "5415.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "5320.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "5510.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+07:00",
+                "amount": "6302.30",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/UALY1QYS8T",
+          "roomInformation": {
+            "description": "Stay Longer Save More\nDeluxe, 1 King, Tub with spray jets, Mini\nfridge, 40sqm/430sqft-45sqm/484sqft, Wireless",
+            "type": "LDB",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=WIBKK446&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 11,
+      "title": "UNABLE TO PROCESS",
+      "detail": "Provider Error - UNABLE TO PROCESS",
+      "source": {
+        "parameter": "hotelIds=CNBKK260"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=WVBKK703"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=BYBKK800,DHBKKAUU,IQBKKATL"
+      }
+    },
+    {
+      "code": 3843,
+      "title": "NUMBER IN PARTY EXCEEDS ROOM OCCUPANCY LIMIT",
+      "detail": "Provider Error - NUMBER IN PARTY EXCEEDS ROOM OCCUPANCY LIMIT",
+      "source": {
+        "parameter": "hotelIds=MUBKKMSB"
+      }
+    }
+  ]
+}

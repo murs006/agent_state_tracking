@@ -1,0 +1,11 @@
+{
+  "error": "400 Client Error: Bad Request for url: https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=YXDXBGMR%2CWVDXB027%2CIQDXBPID%2CCYDXBCYC%2CMCDXBEAM%2CBHDXB828%2CYXDXBNAI%2CJADXB201%2CJADXBALI%2CYXDXBBAB&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD&bestRateOnly=true",
+  "params": {
+    "hotelIds": "YXDXBGMR,WVDXB027,IQDXBPID,CYDXBCYC,MCDXBEAM,BHDXB828,YXDXBNAI,JADXB201,JADXBALI,YXDXBBAB",
+    "adults": "1",
+    "checkInDate": "2025-10-02",
+    "checkOutDate": "2025-10-09",
+    "currency": "USD",
+    "bestRateOnly": "true"
+  }
+}

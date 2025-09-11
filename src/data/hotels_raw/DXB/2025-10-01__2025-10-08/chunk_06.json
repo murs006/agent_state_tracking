@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCDXBJWM",
+        "chainCode": "MC",
+        "dupeId": "700163228",
+        "name": "JW Marriott Marquis Hotel Dubai",
+        "cityCode": "DXB",
+        "latitude": 25.19212,
+        "longitude": 55.26069
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "6YZFAJLQJS",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "AP7",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Prepay Non-refundable Non-changeable, prepay in full\nDeluxe King Room, 1 King, Mini Fridge,\n44sqm/473sqft, Air Conditioned, Allergy Free,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "6277.50",
+            "total": "7829.95",
+            "variations": {
+              "average": {
+                "base": "896.79"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-06",
+                  "base": "809.10"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "1116.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "description": {
+                  "text": "NON-REFUNDABLE RATE"
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "deposit",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/6YZFAJLQJS",
+          "roomInformation": {
+            "description": "Prepay Non-refundable Non-changeable, prepay in full\nDeluxe King Room, 1 King, Mini Fridge,\n44sqm/473sqft, Air Conditioned, Allergy Free,",
+            "type": "AP7",
+            "typeEstimated": {
+              "bedType": "DOUBLE",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCDXBJWM&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "SIDXB731",
+        "chainCode": "SI",
+        "dupeId": "700222852",
+        "name": "Sheraton Grand Hotel Dubai",
+        "cityCode": "DXB",
+        "latitude": 25.12765,
+        "longitude": 55.20819
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "6M80G9UU1F",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLY",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King, 40sqm/430sqft, Wireless\ninternet, complimentary, Wired internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "3776.00",
+            "total": "4765.60",
+            "variations": {
+              "average": {
+                "base": "539.43"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "592.00"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "528.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-05",
+                  "base": "464.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "520.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "584.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "624.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "745.20",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/6M80G9UU1F",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King, 40sqm/430sqft, Wireless\ninternet, complimentary, Wired internet,",
+            "type": "SLY",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=SIDXB731&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=ATDXB321,ATDXBNAR"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=DHSHJABX,RDSHJ816,WVAAN858"
+      }
+    }
+  ]
+}

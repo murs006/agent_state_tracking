@@ -1,0 +1,418 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "HIDXBEE0",
+        "chainCode": "HI",
+        "dupeId": "700141567",
+        "name": "HOLIDAY INN EXP DUBAI AIRPORT",
+        "cityCode": "DXB",
+        "latitude": 25.24163,
+        "longitude": 55.36028
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "V37I4VTLNF",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "00T",
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "2573.41",
+            "total": "3222.38",
+            "taxes": [
+              {
+                "code": "TOTAL_TAX",
+                "amount": "10.00",
+                "included": false
+              },
+              {
+                "code": "TOTAL_TAX",
+                "percentage": "12.50",
+                "included": false
+              },
+              {
+                "code": "SERVICE_CHARGE",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "10.00",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "367.63"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-09",
+                  "base": "367.63"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "EC",
+                  "JC"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/V37I4VTLNF",
+          "roomInformation": {
+            "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=HIDXBEE0&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "ICDXBD92",
+        "chainCode": "IC",
+        "dupeId": "700153827",
+        "name": "INTERCONTINENTAL RESIDENCE STE",
+        "cityCode": "DXB",
+        "latitude": 25.23248,
+        "longitude": 55.34684
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "7BNAI2PDLD",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "02L",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "EXTENDED STAY RATE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "3606.00",
+            "total": "4557.37",
+            "taxes": [
+              {
+                "code": "SERVICE_CHARGE",
+                "amount": "360.60",
+                "currency": "AED",
+                "included": false
+              },
+              {
+                "code": "CITY_TAX",
+                "amount": "590.77",
+                "currency": "AED",
+                "included": false
+              },
+              {
+                "code": "TOURISM_TAX",
+                "amount": "590.77",
+                "currency": "AED",
+                "included": false
+              },
+              {
+                "code": "VALUE_ADDED_TAX",
+                "amount": "590.77",
+                "currency": "AED",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "515.14"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "556.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "549.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "483.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "479.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "514.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "511.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "514.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "deadline": "2025-10-01T18:00:00+04:00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC",
+                  "EC",
+                  "CU"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "CU"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/7BNAI2PDLD",
+          "roomInformation": {
+            "description": "EXTENDED STAY RATE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=ICDXBD92&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MDDXB328",
+        "chainCode": "MD",
+        "dupeId": "700009357",
+        "name": "Le Meridien Dubai Hotel and Conference Centre",
+        "cityCode": "DXB",
+        "latitude": 25.23279,
+        "longitude": 55.33693
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "BUV76DDWUF",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLY",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "QUEEN"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 Queen,\n32sqm/344sqft-34sqm/366sqft, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "3500.00",
+            "total": "4427.50",
+            "variations": {
+              "average": {
+                "base": "500.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-09",
+                  "base": "500.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-01T23:59:00+04:00",
+                "amount": "632.50",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/BUV76DDWUF",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 Queen,\n32sqm/344sqft-34sqm/366sqft, Wireless",
+            "type": "SLY",
+            "typeEstimated": {
+              "bedType": "QUEEN",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MDDXB328&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=DHDXBAKV,DHDXBALA,DHDXBALN,DHDXBAMK,DHDXBAMQ,DHDXBANF,DHDXBANO,DHDXBANZ,DHDXBAOY,DHDXBAOZ,DHDXBAPC,MDDXB834"
+      }
+    },
+    {
+      "code": 1,
+      "title": "CHECK FORMAT",
+      "detail": "Provider Error - CHECK FORMAT",
+      "source": {
+        "parameter": "hotelIds=HLDXB001"
+      }
+    }
+  ]
+}

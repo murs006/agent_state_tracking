@@ -1,0 +1,656 @@
+{
+  "search": {
+    "cityCode": "DXB",
+    "checkInDate": "2025-10-02",
+    "checkOutDate": "2025-10-09",
+    "adults": 1,
+    "currency": "USD",
+    "n_batches": 11
+  },
+  "hotels": [
+    {
+      "hotelId": "RTDXBSUI",
+      "name": "Suite Novotel Mall of the Emirates",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 25.11653,
+      "lon": 55.19611,
+      "offers": [
+        {
+          "id": "ALANO7OZ3T",
+          "priceTotal": 840.0,
+          "currency": "AED",
+          "boardType": "ROOM_ONLY",
+          "roomType": "S1D",
+          "description": "Semi-restricted rate-cond. apply-Room only\nWith its 30m², The Suite is ideal for 3 peoplew\n/ a meridienne, 1 double bed",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "ALANO7OZ3T",
+        "priceTotal": 840.0,
+        "currency": "AED",
+        "boardType": "ROOM_ONLY",
+        "roomType": "S1D",
+        "description": "Semi-restricted rate-cond. apply-Room only\nWith its 30m², The Suite is ideal for 3 peoplew\n/ a meridienne, 1 double bed",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTDXBBAR",
+      "name": "ibis Al Barsha",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 25.10872,
+      "lon": 55.18397,
+      "offers": [
+        {
+          "id": "FF2G0BCBPK",
+          "priceTotal": 1960.41,
+          "currency": "AED",
+          "boardType": "ROOM_ONLY",
+          "roomType": "C1D",
+          "description": "FLEXIBLE RATE-Room only\nVouchers from clients without credit facilities\nStandard Room with 2 single beds GB TEST GB",
+          "cancellable": false
+        }
+      ],
+      "cheapest": {
+        "id": "FF2G0BCBPK",
+        "priceTotal": 1960.41,
+        "currency": "AED",
+        "boardType": "ROOM_ONLY",
+        "roomType": "C1D",
+        "description": "FLEXIBLE RATE-Room only\nVouchers from clients without credit facilities\nStandard Room with 2 single beds GB TEST GB",
+        "cancellable": false
+      }
+    },
+    {
+      "hotelId": "HIDXB891",
+      "name": "HOLIDAY INN EXP DUBAI-JUMEIRAH",
+      "chainCode": "HI",
+      "iataCode": null,
+      "lat": 25.24293,
+      "lon": 55.27157,
+      "offers": [
+        {
+          "id": "TEKBP5CDQQ",
+          "priceTotal": 3174.64,
+          "currency": "AED",
+          "boardType": "BREAKFAST",
+          "roomType": "*RH",
+          "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "TEKBP5CDQQ",
+        "priceTotal": 3174.64,
+        "currency": "AED",
+        "boardType": "BREAKFAST",
+        "roomType": "*RH",
+        "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "HIDXBEE0",
+      "name": "HOLIDAY INN EXP DUBAI AIRPORT",
+      "chainCode": "HI",
+      "iataCode": null,
+      "lat": 25.24163,
+      "lon": 55.36028,
+      "offers": [
+        {
+          "id": "V37I4VTLNF",
+          "priceTotal": 3222.38,
+          "currency": "AED",
+          "boardType": "BREAKFAST",
+          "roomType": "*RH",
+          "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "V37I4VTLNF",
+        "priceTotal": 3222.38,
+        "currency": "AED",
+        "boardType": "BREAKFAST",
+        "roomType": "*RH",
+        "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIDXB408",
+      "name": "Sheraton Dubai Creek Hotel and Towers",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 25.25242,
+      "lon": 55.32802,
+      "offers": [
+        {
+          "id": "NLFIQ52O3U",
+          "priceTotal": 3810.41,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLP",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe City View King, 1 King, Mini fridge,\n37sqm/398sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "NLFIQ52O3U",
+        "priceTotal": 3810.41,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLP",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe City View King, 1 King, Mini fridge,\n37sqm/398sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCDXBMHM",
+      "name": "Marriott Hotel Al Jaddaf Dubai",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 25.21548,
+      "lon": 55.31423,
+      "offers": [
+        {
+          "id": "4KMBM2PNFZ",
+          "priceTotal": 3856.16,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLE",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 2 Double, Mini fridge,\n40sqm/430sqft, Living/sitting area, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "4KMBM2PNFZ",
+        "priceTotal": 3856.16,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLE",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 2 Double, Mini fridge,\n40sqm/430sqft, Living/sitting area, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIDXB093",
+      "name": "FOUR POINTS DOWNTOWN DUBAI",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 25.25196,
+      "lon": 55.29285,
+      "offers": [
+        {
+          "id": "YLJT7KFI3S",
+          "priceTotal": 4027.1,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLA",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nClassic room, 1 King, Mini fridge,\n38sqm/409sqft, Living/sitting area, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "YLJT7KFI3S",
+        "priceTotal": 4027.1,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLA",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nClassic room, 1 King, Mini fridge,\n38sqm/409sqft, Living/sitting area, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCDXBERM",
+      "name": "Marriott Executive Apartments Dubai Creek",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 25.25811,
+      "lon": 55.32437,
+      "offers": [
+        {
+          "id": "3BQJUZT7T3",
+          "priceTotal": 4084.5,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLA",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom Apartment City View, 1 King,\nBathrooms: 1.5, Full kitchen, Microwave,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "3BQJUZT7T3",
+        "priceTotal": 4084.5,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLA",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom Apartment City View, 1 King,\nBathrooms: 1.5, Full kitchen, Microwave,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MDDXB328",
+      "name": "Le Meridien Dubai Hotel and Conference Centre",
+      "chainCode": "MD",
+      "iataCode": null,
+      "lat": 25.23279,
+      "lon": 55.33693,
+      "offers": [
+        {
+          "id": "BUV76DDWUF",
+          "priceTotal": 4427.5,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLY",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 Queen,\n32sqm/344sqft-34sqm/366sqft, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "BUV76DDWUF",
+        "priceTotal": 4427.5,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLY",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 Queen,\n32sqm/344sqft-34sqm/366sqft, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "ICDXBD92",
+      "name": "INTERCONTINENTAL RESIDENCE STE",
+      "chainCode": "IC",
+      "iataCode": null,
+      "lat": 25.23248,
+      "lon": 55.34684,
+      "offers": [
+        {
+          "id": "7BNAI2PDLD",
+          "priceTotal": 4557.37,
+          "currency": "AED",
+          "boardType": "ROOM_ONLY",
+          "roomType": "*RH",
+          "description": "EXTENDED STAY RATE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "7BNAI2PDLD",
+        "priceTotal": 4557.37,
+        "currency": "AED",
+        "boardType": "ROOM_ONLY",
+        "roomType": "*RH",
+        "description": "EXTENDED STAY RATE\nClassic Room When you arrive at the hotel we\nwill do our best to meet your room type",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCDXBHCM",
+      "name": "Marriott Executive Apartments Al Jaddaf Dubai",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 25.2583,
+      "lon": 55.32449,
+      "offers": [
+        {
+          "id": "E9O6ZDYSBG",
+          "priceTotal": 4599.0,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLA",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Full kitchen,\nMicrowave, 75sqm/807sqft, Separate living",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "E9O6ZDYSBG",
+        "priceTotal": 4599.0,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLA",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Full kitchen,\nMicrowave, 75sqm/807sqft, Separate living",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIDXB889",
+      "name": "Sheraton Dubai Mall of the Emirates Hotel",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 25.11389,
+      "lon": 55.18915,
+      "offers": [
+        {
+          "id": "V5SJFQGCSH",
+          "priceTotal": 4693.33,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "DFY",
+          "description": "Stay Longer & Save More\nDeluxe King, 1 King, Mini fridge,\n35sqm/377sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "V5SJFQGCSH",
+        "priceTotal": 4693.33,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "DFY",
+        "description": "Stay Longer & Save More\nDeluxe King, 1 King, Mini fridge,\n35sqm/377sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIDXB731",
+      "name": "Sheraton Grand Hotel Dubai",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 25.12765,
+      "lon": 55.20819,
+      "offers": [
+        {
+          "id": "WVA9CMT8OK",
+          "priceTotal": 4844.0,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLY",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King, 40sqm/430sqft, Wireless\ninternet, complimentary, Wired internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "WVA9CMT8OK",
+        "priceTotal": 4844.0,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLY",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King, 40sqm/430sqft, Wireless\ninternet, complimentary, Wired internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTDXBNOV",
+      "name": "Novotel Deira City Centre",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 25.25359,
+      "lon": 55.33293,
+      "offers": [
+        {
+          "id": "YHRF42BK0Z",
+          "priceTotal": 7560.0,
+          "currency": "AED",
+          "boardType": "ROOM_ONLY",
+          "roomType": "A1D",
+          "description": "Rack rate-Room only\nSuperior Room with 1 double bed and sofa b ed b\nasics",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "YHRF42BK0Z",
+        "priceTotal": 7560.0,
+        "currency": "AED",
+        "boardType": "ROOM_ONLY",
+        "roomType": "A1D",
+        "description": "Rack rate-Room only\nSuperior Room with 1 double bed and sofa b ed b\nasics",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCDXBJWM",
+      "name": "JW Marriott Marquis Hotel Dubai",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 25.19212,
+      "lon": 55.26069,
+      "offers": [
+        {
+          "id": "2OX2HLZ24K",
+          "priceTotal": 8205.89,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "AP7",
+          "description": "Prepay Non-refundable Non-changeable, prepay in full\nDeluxe King Room, 1 King, Mini Fridge,\n44sqm/473sqft, Air Conditioned, Allergy Free,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "2OX2HLZ24K",
+        "priceTotal": 8205.89,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "AP7",
+        "description": "Prepay Non-refundable Non-changeable, prepay in full\nDeluxe King Room, 1 King, Mini Fridge,\n44sqm/473sqft, Air Conditioned, Allergy Free,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCDXBHRM",
+      "name": "Dubai Marriott Harbour Hotel and Suites",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 25.08966,
+      "lon": 55.1484,
+      "offers": [
+        {
+          "id": "4TDFUUC26C",
+          "priceTotal": 8281.94,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLP",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom, 1 King, Microwave,\n120sqm/1291sqft, Living/sitting area, Dining",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "4TDFUUC26C",
+        "priceTotal": 8281.94,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLP",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom, 1 King, Microwave,\n120sqm/1291sqft, Living/sitting area, Dining",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIDXB326",
+      "name": "Sheraton Jumeirah Beach Resort",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 25.07332,
+      "lon": 55.12897,
+      "offers": [
+        {
+          "id": "2W0EMBQWWX",
+          "priceTotal": 8286.25,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "REG",
+          "description": "Flexible Rate\nDeluxe JBR View, 1 King, Mini fridge,\n36sqm/387sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "2W0EMBQWWX",
+        "priceTotal": 8286.25,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "REG",
+        "description": "Flexible Rate\nDeluxe JBR View, 1 King, Mini fridge,\n36sqm/387sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MDDXBMER",
+      "name": "Le Meridien Mina Seyahi Beach Resort and Waterpark",
+      "chainCode": "MD",
+      "iataCode": null,
+      "lat": 25.09188,
+      "lon": 55.14728,
+      "offers": [
+        {
+          "id": "3D0R3DIR16",
+          "priceTotal": 8290.79,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLA",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room Skyline View, 1 King,\n32sqm/344sqft-36sqm/387sqft, Living/sitting",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "3D0R3DIR16",
+        "priceTotal": 8290.79,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLA",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room Skyline View, 1 King,\n32sqm/344sqft-36sqm/387sqft, Living/sitting",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "ICDXB759",
+      "name": "INTERCONTINENTAL FESTIVAL CITY",
+      "chainCode": "IC",
+      "iataCode": null,
+      "lat": 25.22309,
+      "lon": 55.34958,
+      "offers": [
+        {
+          "id": "T7I9V5FGYW",
+          "priceTotal": 8381.82,
+          "currency": "AED",
+          "boardType": "ROOM_ONLY",
+          "roomType": "*RH",
+          "description": "BOOK EARLY ADVANCE PURCHASE\nClassic Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "T7I9V5FGYW",
+        "priceTotal": 8381.82,
+        "currency": "AED",
+        "boardType": "ROOM_ONLY",
+        "roomType": "*RH",
+        "description": "BOOK EARLY ADVANCE PURCHASE\nClassic Room Bed Type and smoking preference\ncannot be guaranteed as it will be allocated",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "WIDXB034",
+      "name": "The Westin Dubai Mina Seyahi Beach Resort and Marina",
+      "chainCode": "WI",
+      "iataCode": null,
+      "lat": 25.09188,
+      "lon": 55.14728,
+      "offers": [
+        {
+          "id": "LQ6GUIISIU",
+          "priceTotal": 9834.31,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLA",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Skyline View, 1 King,\n52sqm/560sqft-54sqm/581sqft, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "LQ6GUIISIU",
+        "priceTotal": 9834.31,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLA",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Skyline View, 1 King,\n52sqm/560sqft-54sqm/581sqft, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RZDXBIFZ",
+      "name": "The Ritz-Carlton Dubai International Financial Centre",
+      "chainCode": "RZ",
+      "iataCode": null,
+      "lat": 25.2097,
+      "lon": 55.27436,
+      "offers": [
+        {
+          "id": "X5WZ1DVV2P",
+          "priceTotal": 10038.0,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLY",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King or 2 Double, Tub with\nspray jets, Wireless internet, for a fee,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "X5WZ1DVV2P",
+        "priceTotal": 10038.0,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLY",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King or 2 Double, Tub with\nspray jets, Wireless internet, for a fee,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MDDXB342",
+      "name": "Le Royal Meridien Beach Resort and Spa",
+      "chainCode": "MD",
+      "iataCode": null,
+      "lat": 25.08511,
+      "lon": 55.13929,
+      "offers": [
+        {
+          "id": "Z8C9ARMPGW",
+          "priceTotal": 10552.5,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "XXF",
+          "description": "Family Fun Special: 50% Off Second Room - Kids Under 16\nSuper Deluxe Room - City View,  Twin,\n35sqm/377sqft, Wireless internet, for a fee,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "Z8C9ARMPGW",
+        "priceTotal": 10552.5,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "XXF",
+        "description": "Family Fun Special: 50% Off Second Room - Kids Under 16\nSuper Deluxe Room - City View,  Twin,\n35sqm/377sqft, Wireless internet, for a fee,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RZDXBRRZ",
+      "name": "The Ritz-Carlton Dubai International Finance Center Residences",
+      "chainCode": "RZ",
+      "iataCode": null,
+      "lat": 25.21247,
+      "lon": 55.2823,
+      "offers": [
+        {
+          "id": "ZC4QAOBDS3",
+          "priceTotal": 14546.0,
+          "currency": "AED",
+          "boardType": null,
+          "roomType": "SLY",
+          "description": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Bathrooms: 1.5,\nTub with spray jets, Microwave,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "ZC4QAOBDS3",
+        "priceTotal": 14546.0,
+        "currency": "AED",
+        "boardType": null,
+        "roomType": "SLY",
+        "description": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Bathrooms: 1.5,\nTub with spray jets, Microwave,",
+        "cancellable": true
+      }
+    }
+  ]
+}

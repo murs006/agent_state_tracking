@@ -1,0 +1,2816 @@
+{
+  "search": {
+    "origin": "JFK",
+    "destination": "DXB",
+    "departureDate": "2025-10-02",
+    "returnDate": "2025-10-09",
+    "adults": 1,
+    "currency": "USD"
+  },
+  "offers": [
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T07:05:00",
+              "arr": "2025-10-09T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT16H55M"
+        }
+      ],
+      "id": "fl_2e1ba3200236"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T07:05:00",
+              "arr": "2025-10-09T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT16H55M"
+        }
+      ],
+      "id": "fl_a0c5539447d1"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT18H"
+        }
+      ],
+      "id": "fl_871706767c76"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT18H"
+        }
+      ],
+      "id": "fl_0dea0825384a"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T07:05:00",
+              "arr": "2025-10-09T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT16H55M"
+        }
+      ],
+      "id": "fl_b73b5b4ff538"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT18H"
+        }
+      ],
+      "id": "fl_0a3abca74d27"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT23H55M"
+        }
+      ],
+      "id": "fl_cb2c88b122d5"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT23H55M"
+        }
+      ],
+      "id": "fl_a947eea2421b"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "761",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T02:00:00",
+              "arr": "2025-10-09T05:45:00",
+              "duration": "PT4H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "1",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T14:10:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT10H45M"
+            }
+          ],
+          "duration": "PT23H55M"
+        }
+      ],
+      "id": "fl_514b60fd1fda"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT22H30M"
+        }
+      ],
+      "id": "fl_d390fef9be8a"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT22H45M"
+        }
+      ],
+      "id": "fl_686db40b1bd6"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT22H30M"
+        }
+      ],
+      "id": "fl_204e77790875"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT22H45M"
+        }
+      ],
+      "id": "fl_bf9475081640"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT22H30M"
+        }
+      ],
+      "id": "fl_67cb3ae53482"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "763",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T07:55:00",
+              "arr": "2025-10-09T11:50:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT22H45M"
+        }
+      ],
+      "id": "fl_bea614efb45c"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T07:05:00",
+              "arr": "2025-10-10T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT28H55M"
+        }
+      ],
+      "id": "fl_b834e55ef543"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T07:05:00",
+              "arr": "2025-10-10T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT28H55M"
+        }
+      ],
+      "id": "fl_fa6a251b09f2"
+    },
+    {
+      "price": 702.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "765",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T14:00:00",
+              "arr": "2025-10-09T17:55:00",
+              "duration": "PT4H55M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "3",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T07:05:00",
+              "arr": "2025-10-10T10:55:00",
+              "duration": "PT10H50M"
+            }
+          ],
+          "duration": "PT28H55M"
+        }
+      ],
+      "id": "fl_2129ae45668f"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT20H10M"
+        }
+      ],
+      "id": "fl_05206aa24ff1"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT20H10M"
+        }
+      ],
+      "id": "fl_eea4fc321619"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "11",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-09T18:45:00",
+              "arr": "2025-10-09T22:40:00",
+              "duration": "PT10H55M"
+            }
+          ],
+          "duration": "PT20H10M"
+        }
+      ],
+      "id": "fl_77c03201864f"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "760",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T18:50:00",
+              "arr": "2025-10-04T00:20:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT20H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT26H"
+        }
+      ],
+      "id": "fl_38c13601798e"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "112",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T06:45:00",
+              "arr": "2025-10-02T23:30:00",
+              "duration": "PT9H45M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "764",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T06:45:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT4H35M"
+            }
+          ],
+          "duration": "PT21H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT26H"
+        }
+      ],
+      "id": "fl_688e4cea3d02"
+    },
+    {
+      "price": 712.91,
+      "validatingAirlineCodes": [
+        "TK"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "2",
+              "from": "JFK",
+              "to": "IST",
+              "dep": "2025-10-02T19:50:00",
+              "arr": "2025-10-03T12:55:00",
+              "duration": "PT10H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "758",
+              "from": "IST",
+              "to": "DXB",
+              "dep": "2025-10-03T21:00:00",
+              "arr": "2025-10-04T02:30:00",
+              "duration": "PT4H30M"
+            }
+          ],
+          "duration": "PT22H40M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "TK",
+              "number": "759",
+              "from": "DXB",
+              "to": "IST",
+              "dep": "2025-10-09T10:30:00",
+              "arr": "2025-10-09T14:35:00",
+              "duration": "PT5H5M"
+            },
+            {
+              "carrierCode": "TK",
+              "number": "111",
+              "from": "IST",
+              "to": "JFK",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T04:30:00",
+              "duration": "PT10H35M"
+            }
+          ],
+          "duration": "PT26H"
+        }
+      ],
+      "id": "fl_063d92a75590"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H35M"
+        }
+      ],
+      "id": "fl_15649d7fd5d1"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T22:00:00",
+              "arr": "2025-10-03T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1018",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T18:35:00",
+              "arr": "2025-10-03T20:55:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H35M"
+        }
+      ],
+      "id": "fl_234313d61bdb"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1015",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:20:00",
+              "arr": "2025-10-09T23:35:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H40M"
+        }
+      ],
+      "id": "fl_cec9255250a2"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T22:00:00",
+              "arr": "2025-10-03T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1018",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T18:35:00",
+              "arr": "2025-10-03T20:55:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1015",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:20:00",
+              "arr": "2025-10-09T23:35:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H40M"
+        }
+      ],
+      "id": "fl_b908a2813968"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1022",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T09:20:00",
+              "arr": "2025-10-03T11:40:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT16H20M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H35M"
+        }
+      ],
+      "id": "fl_264b8c62f1ad"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1022",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T09:20:00",
+              "arr": "2025-10-03T11:40:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT16H20M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1015",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:20:00",
+              "arr": "2025-10-09T23:35:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H40M"
+        }
+      ],
+      "id": "fl_cadb6efcb8d2"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H45M"
+        }
+      ],
+      "id": "fl_0eb1464cbff2"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T22:00:00",
+              "arr": "2025-10-03T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1018",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T18:35:00",
+              "arr": "2025-10-03T20:55:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT14H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H45M"
+        }
+      ],
+      "id": "fl_edfc1a04bbf1"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T11:20:00",
+              "arr": "2025-10-03T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1022",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T09:20:00",
+              "arr": "2025-10-03T11:40:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT16H20M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H45M"
+        }
+      ],
+      "id": "fl_840a084d84cd"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT24H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H35M"
+        }
+      ],
+      "id": "fl_95be47f5efdf"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT24H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1015",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:20:00",
+              "arr": "2025-10-09T23:35:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H40M"
+        }
+      ],
+      "id": "fl_d239d8e9ffc7"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1006",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T07:55:00",
+              "arr": "2025-10-03T10:15:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT24H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H45M"
+        }
+      ],
+      "id": "fl_cd66f3988681"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1002",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T01:05:00",
+              "arr": "2025-10-03T03:25:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT18H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H35M"
+        }
+      ],
+      "id": "fl_e6799cd42c68"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1002",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T01:05:00",
+              "arr": "2025-10-03T03:25:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT18H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1015",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:20:00",
+              "arr": "2025-10-09T23:35:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T01:50:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT17H40M"
+        }
+      ],
+      "id": "fl_09a66ca98153"
+    },
+    {
+      "price": 774.11,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "706",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-02T01:20:00",
+              "arr": "2025-10-02T20:45:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "1002",
+              "from": "DOH",
+              "to": "DXB",
+              "dep": "2025-10-03T01:05:00",
+              "arr": "2025-10-03T03:25:00",
+              "duration": "PT1H20M"
+            }
+          ],
+          "duration": "PT18H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "1019",
+              "from": "DXB",
+              "to": "DOH",
+              "dep": "2025-10-09T23:25:00",
+              "arr": "2025-10-09T23:40:00",
+              "duration": "PT1H15M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H45M"
+        }
+      ],
+      "id": "fl_0004bce9351e"
+    },
+    {
+      "price": 788.43,
+      "validatingAirlineCodes": [
+        "SV"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "SV",
+              "number": "22",
+              "from": "JFK",
+              "to": "RUH",
+              "dep": "2025-10-02T11:00:00",
+              "arr": "2025-10-03T06:15:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "SV",
+              "number": "596",
+              "from": "RUH",
+              "to": "DXB",
+              "dep": "2025-10-03T09:00:00",
+              "arr": "2025-10-03T12:00:00",
+              "duration": "PT2H"
+            }
+          ],
+          "duration": "PT17H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "SV",
+              "number": "595",
+              "from": "DXB",
+              "to": "JED",
+              "dep": "2025-10-09T23:00:00",
+              "arr": "2025-10-10T01:00:00",
+              "duration": "PT3H"
+            },
+            {
+              "carrierCode": "SV",
+              "number": "21",
+              "from": "JED",
+              "to": "JFK",
+              "dep": "2025-10-10T03:05:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT12H55M"
+            }
+          ],
+          "duration": "PT18H"
+        }
+      ],
+      "id": "fl_c76668a6e6b5"
+    },
+    {
+      "price": 788.43,
+      "validatingAirlineCodes": [
+        "SV"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "SV",
+              "number": "22",
+              "from": "JFK",
+              "to": "RUH",
+              "dep": "2025-10-02T11:00:00",
+              "arr": "2025-10-03T06:15:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "SV",
+              "number": "596",
+              "from": "RUH",
+              "to": "DXB",
+              "dep": "2025-10-03T09:00:00",
+              "arr": "2025-10-03T12:00:00",
+              "duration": "PT2H"
+            }
+          ],
+          "duration": "PT17H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "SV",
+              "number": "551",
+              "from": "DXB",
+              "to": "JED",
+              "dep": "2025-10-09T21:00:00",
+              "arr": "2025-10-09T23:00:00",
+              "duration": "PT3H"
+            },
+            {
+              "carrierCode": "SV",
+              "number": "21",
+              "from": "JED",
+              "to": "JFK",
+              "dep": "2025-10-10T03:05:00",
+              "arr": "2025-10-10T09:00:00",
+              "duration": "PT12H55M"
+            }
+          ],
+          "duration": "PT20H"
+        }
+      ],
+      "id": "fl_c90e2d7be72a"
+    },
+    {
+      "price": 825.11,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "7",
+              "from": "JFK",
+              "to": "CDG",
+              "dep": "2025-10-02T21:30:00",
+              "arr": "2025-10-03T11:05:00",
+              "duration": "PT7H35M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "662",
+              "from": "CDG",
+              "to": "DXB",
+              "dep": "2025-10-03T13:40:00",
+              "arr": "2025-10-03T22:35:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT17H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_67de78a2ab25"
+    },
+    {
+      "price": 825.11,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "8627",
+              "from": "JFK",
+              "to": "DTW",
+              "dep": "2025-10-02T16:50:00",
+              "arr": "2025-10-02T19:13:00",
+              "duration": "PT2H23M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "377",
+              "from": "DTW",
+              "to": "CDG",
+              "dep": "2025-10-02T21:20:00",
+              "arr": "2025-10-03T11:10:00",
+              "duration": "PT7H50M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "662",
+              "from": "CDG",
+              "to": "DXB",
+              "dep": "2025-10-03T13:40:00",
+              "arr": "2025-10-03T22:35:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_dee0a3e8d13c"
+    },
+    {
+      "price": 825.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "644",
+              "from": "JFK",
+              "to": "AMS",
+              "dep": "2025-10-02T21:10:00",
+              "arr": "2025-10-03T10:35:00",
+              "duration": "PT7H25M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "427",
+              "from": "AMS",
+              "to": "DXB",
+              "dep": "2025-10-03T14:20:00",
+              "arr": "2025-10-03T23:00:00",
+              "duration": "PT6H40M"
+            }
+          ],
+          "duration": "PT17H50M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_f6658096e522"
+    },
+    {
+      "price": 825.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "5274",
+              "from": "JFK",
+              "to": "BOS",
+              "dep": "2025-10-02T14:46:00",
+              "arr": "2025-10-02T16:19:00",
+              "duration": "PT1H33M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6016",
+              "from": "BOS",
+              "to": "AMS",
+              "dep": "2025-10-02T18:50:00",
+              "arr": "2025-10-03T07:50:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "427",
+              "from": "AMS",
+              "to": "DXB",
+              "dep": "2025-10-03T14:20:00",
+              "arr": "2025-10-03T23:00:00",
+              "duration": "PT6H40M"
+            }
+          ],
+          "duration": "PT24H14M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_388dfea4f00b"
+    },
+    {
+      "price": 825.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "5119",
+              "from": "JFK",
+              "to": "DTW",
+              "dep": "2025-10-02T12:59:00",
+              "arr": "2025-10-02T15:02:00",
+              "duration": "PT2H3M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6018",
+              "from": "DTW",
+              "to": "AMS",
+              "dep": "2025-10-02T16:30:00",
+              "arr": "2025-10-03T06:00:00",
+              "duration": "PT7H30M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "427",
+              "from": "AMS",
+              "to": "DXB",
+              "dep": "2025-10-03T14:20:00",
+              "arr": "2025-10-03T23:00:00",
+              "duration": "PT6H40M"
+            }
+          ],
+          "duration": "PT26H1M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_8d1ccb84fe44"
+    },
+    {
+      "price": 825.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "5119",
+              "from": "JFK",
+              "to": "DTW",
+              "dep": "2025-10-02T12:59:00",
+              "arr": "2025-10-02T15:02:00",
+              "duration": "PT2H3M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6119",
+              "from": "DTW",
+              "to": "AMS",
+              "dep": "2025-10-02T18:30:00",
+              "arr": "2025-10-03T08:15:00",
+              "duration": "PT7H45M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "427",
+              "from": "AMS",
+              "to": "DXB",
+              "dep": "2025-10-03T14:20:00",
+              "arr": "2025-10-03T23:00:00",
+              "duration": "PT6H40M"
+            }
+          ],
+          "duration": "PT26H1M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_af9bed4aa837"
+    },
+    {
+      "price": 875.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "7",
+              "from": "JFK",
+              "to": "CDG",
+              "dep": "2025-10-02T21:30:00",
+              "arr": "2025-10-03T11:05:00",
+              "duration": "PT7H35M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "662",
+              "from": "CDG",
+              "to": "DXB",
+              "dep": "2025-10-03T13:40:00",
+              "arr": "2025-10-03T22:35:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT17H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "428",
+              "from": "DXB",
+              "to": "AMS",
+              "dep": "2025-10-09T01:00:00",
+              "arr": "2025-10-09T06:30:00",
+              "duration": "PT7H30M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6149",
+              "from": "AMS",
+              "to": "JFK",
+              "dep": "2025-10-09T11:10:00",
+              "arr": "2025-10-09T13:35:00",
+              "duration": "PT8H25M"
+            }
+          ],
+          "duration": "PT20H35M"
+        }
+      ],
+      "id": "fl_27b5c2e5de5d"
+    },
+    {
+      "price": 875.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "8627",
+              "from": "JFK",
+              "to": "DTW",
+              "dep": "2025-10-02T16:50:00",
+              "arr": "2025-10-02T19:13:00",
+              "duration": "PT2H23M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "377",
+              "from": "DTW",
+              "to": "CDG",
+              "dep": "2025-10-02T21:20:00",
+              "arr": "2025-10-03T11:10:00",
+              "duration": "PT7H50M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "662",
+              "from": "CDG",
+              "to": "DXB",
+              "dep": "2025-10-03T13:40:00",
+              "arr": "2025-10-03T22:35:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "428",
+              "from": "DXB",
+              "to": "AMS",
+              "dep": "2025-10-09T01:00:00",
+              "arr": "2025-10-09T06:30:00",
+              "duration": "PT7H30M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6149",
+              "from": "AMS",
+              "to": "JFK",
+              "dep": "2025-10-09T11:10:00",
+              "arr": "2025-10-09T13:35:00",
+              "duration": "PT8H25M"
+            }
+          ],
+          "duration": "PT20H35M"
+        }
+      ],
+      "id": "fl_947034902c4c"
+    },
+    {
+      "price": 875.21,
+      "validatingAirlineCodes": [
+        "AF"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KL",
+              "number": "5119",
+              "from": "JFK",
+              "to": "DTW",
+              "dep": "2025-10-02T12:59:00",
+              "arr": "2025-10-02T15:02:00",
+              "duration": "PT2H3M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "6034",
+              "from": "DTW",
+              "to": "AMS",
+              "dep": "2025-10-02T22:35:00",
+              "arr": "2025-10-03T12:20:00",
+              "duration": "PT7H45M"
+            },
+            {
+              "carrierCode": "KL",
+              "number": "427",
+              "from": "AMS",
+              "to": "DXB",
+              "dep": "2025-10-03T14:20:00",
+              "arr": "2025-10-03T23:00:00",
+              "duration": "PT6H40M"
+            }
+          ],
+          "duration": "PT26H1M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "AF",
+              "number": "655",
+              "from": "DXB",
+              "to": "CDG",
+              "dep": "2025-10-09T00:40:00",
+              "arr": "2025-10-09T06:00:00",
+              "duration": "PT7H20M"
+            },
+            {
+              "carrierCode": "AF",
+              "number": "2",
+              "from": "CDG",
+              "to": "JFK",
+              "dep": "2025-10-09T08:30:00",
+              "arr": "2025-10-09T10:30:00",
+              "duration": "PT8H"
+            }
+          ],
+          "duration": "PT17H50M"
+        }
+      ],
+      "id": "fl_64da1697a8ee"
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "ALBKK211",
+        "chainCode": "AL",
+        "dupeId": "700147217",
+        "name": "Aloft Bangkok Sukhumvit 11",
+        "cityCode": "BKK",
+        "latitude": 13.74436,
+        "longitude": 100.55652
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "OHNEU7PJUG",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "LTA",
+            "typeEstimated": {
+              "beds": 2,
+              "bedType": "QUEEN"
+            },
+            "description": {
+              "text": "Stay Longer Save More, 20 pct discount off, WiFi\n2 Queen, Mini fridge, 32sqm/344sqft,\nLiving/sitting area, Wireless internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "23370.00",
+            "total": "27506.51",
+            "variations": {
+              "average": {
+                "base": "3338.57"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "3325.00"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "3230.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "3325.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "3705.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "3325.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "3230.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+07:00",
+                "amount": "3557.75",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/OHNEU7PJUG",
+          "roomInformation": {
+            "description": "Stay Longer Save More, 20 pct discount off, WiFi\n2 Queen, Mini fridge, 32sqm/344sqft,\nLiving/sitting area, Wireless internet,",
+            "type": "LTA",
+            "typeEstimated": {
+              "bedType": "QUEEN",
+              "beds": 2
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=ALBKK211&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "CPBKK3C3",
+        "chainCode": "CP",
+        "dupeId": "700148084",
+        "name": "CROWNE PLAZA LUMPINI PARK",
+        "cityCode": "BKK",
+        "latitude": 13.72967,
+        "longitude": 100.53503
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "EGTS0QVG5V",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "00T",
+          "boardType": "BREAKFAST",
+          "room": {
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            },
+            "description": {
+              "text": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "34993.25",
+            "total": "41187.09",
+            "taxes": [
+              {
+                "code": "SERVICE_CHARGE",
+                "amount": "3499.34",
+                "currency": "THB",
+                "included": false
+              },
+              {
+                "code": "VALUE_ADDED_TAX",
+                "amount": "2694.50",
+                "currency": "THB",
+                "included": false
+              }
+            ],
+            "variations": {
+              "average": {
+                "base": "4999.04"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-02",
+                  "base": "4947.60"
+                },
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-03",
+                  "base": "4939.05"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "5229.75"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "5195.55"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "4981.80"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-07",
+                  "base": "4890.60"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "4808.90"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "prepay": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "VI",
+                  "CA",
+                  "DC",
+                  "CB",
+                  "JC"
+                ],
+                "methods": [
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "VI"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "CB"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  }
+                ]
+              }
+            },
+            "paymentType": "prepay",
+            "refundable": {
+              "cancellationRefund": "NON_REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/EGTS0QVG5V",
+          "roomInformation": {
+            "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+            "type": "*RH",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=CPBKK3C3&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MDBKK946",
+        "chainCode": "MD",
+        "dupeId": "700056444",
+        "name": "Le Meridien Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.72949,
+        "longitude": 100.52994
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "ID08FMX3A4",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "LTS",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer Save More\nDeluxe, 1 King, 36sqm/387sqft, Wireless\ninternet, complimentary, Wired internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "42000.00",
+            "total": "49434.00",
+            "variations": {
+              "average": {
+                "base": "6000.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-08",
+                  "base": "6000.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-26T23:59:00+07:00",
+                "amount": "6420.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/ID08FMX3A4",
+          "roomInformation": {
+            "description": "Stay Longer Save More\nDeluxe, 1 King, 36sqm/387sqft, Wireless\ninternet, complimentary, Wired internet,",
+            "type": "LTS",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MDBKK946&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKNAN",
+        "chainCode": "RT",
+        "dupeId": "700010385",
+        "name": "ibis Bangkok Sukhumvit 4",
+        "cityCode": "BKK",
+        "latitude": 13.73767,
+        "longitude": 100.55336
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "RVALDZUS7F",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "FGR",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "C2T",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 2,
+              "bedType": "TWIN"
+            },
+            "description": {
+              "text": "FGR Itzel-Room only\nStandard Twin Beds",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "13309.12",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "17.70",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "1901.30"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-08",
+                  "base": "1615.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "holdTime": {
+              "deadline": "2025-10-01T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "BA",
+                  "CA",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "TRAVEL_AGENT_ID",
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "BA"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/RVALDZUS7F",
+          "roomInformation": {
+            "description": "FGR Itzel-Room only\nStandard Twin Beds",
+            "type": "C2T",
+            "typeEstimated": {
+              "bedType": "TWIN",
+              "beds": 2,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKNAN&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1351,
+      "title": "VERIFY CHAIN/REP CODE",
+      "detail": "Provider Error - VERIFY CHAIN/REP CODE",
+      "source": {
+        "parameter": "hotelIds=FGBKKMHB"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIBKK310"
+      }
+    },
+    {
+      "code": 3289,
+      "title": "RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "detail": "Provider Error - RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "source": {
+        "parameter": "hotelIds=SBBKKSKV"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RDBKK161,WVBKK645"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=WVBKKSCH"
+      }
+    }
+  ]
+}

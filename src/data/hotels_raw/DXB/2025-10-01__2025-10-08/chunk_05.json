@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RZDXBIFZ",
+        "chainCode": "RZ",
+        "dupeId": "700146054",
+        "name": "The Ritz-Carlton Dubai International Financial Centre",
+        "cityCode": "DXB",
+        "latitude": 25.2097,
+        "longitude": 55.27436
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "X379UOQ7YG",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLY",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 2,
+              "bedType": "DOUBLE"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King or 2 Double, Tub with\nspray jets, Wireless internet, for a fee,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "8080.00",
+            "total": "10038.00",
+            "variations": {
+              "average": {
+                "base": "1154.29"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "1440.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "800.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "720.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-06",
+                  "base": "800.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "1440.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "1784.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/X379UOQ7YG",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room, 1 King or 2 Double, Tub with\nspray jets, Wireless internet, for a fee,",
+            "type": "SLY",
+            "typeEstimated": {
+              "bedType": "DOUBLE",
+              "beds": 2,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RZDXBIFZ&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RZDXBRRZ",
+        "chainCode": "RZ",
+        "dupeId": "501365411",
+        "name": "The Ritz-Carlton Dubai International Finance Center Residences",
+        "cityCode": "DXB",
+        "latitude": 25.21247,
+        "longitude": 55.2823
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "5QFXQ4A3RM",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLY",
+            "typeEstimated": {
+              "category": "RESIDENTIAL_APARTMENT",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Bathrooms: 1.5,\nTub with spray jets, Microwave,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "11760.00",
+            "total": "14546.00",
+            "variations": {
+              "average": {
+                "base": "1680.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-08",
+                  "base": "1680.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-10T23:59:00+04:00",
+                "amount": "2078.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/5QFXQ4A3RM",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\n1 Bedroom Apartment, 1 King, Bathrooms: 1.5,\nTub with spray jets, Microwave,",
+            "type": "SLY",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "RESIDENTIAL_APARTMENT"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RZDXBRRZ&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=ATDXB002,ATDXBMAL"
+      }
+    },
+    {
+      "code": 1351,
+      "title": "VERIFY CHAIN/REP CODE",
+      "detail": "Provider Error - VERIFY CHAIN/REP CODE",
+      "source": {
+        "parameter": "hotelIds=FGDXB211"
+      }
+    },
+    {
+      "code": 3843,
+      "title": "NUMBER IN PARTY EXCEEDS ROOM OCCUPANCY LIMIT",
+      "detail": "Provider Error - NUMBER IN PARTY EXCEEDS ROOM OCCUPANCY LIMIT",
+      "source": {
+        "parameter": "hotelIds=MUSHJCSH"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIDXBDMB"
+      }
+    },
+    {
+      "code": 3289,
+      "title": "RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "detail": "Provider Error - RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "source": {
+        "parameter": "hotelIds=SBDXBSDD"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RDDXB157,USDXBBAY,WVSHJ428"
+      }
+    }
+  ]
+}

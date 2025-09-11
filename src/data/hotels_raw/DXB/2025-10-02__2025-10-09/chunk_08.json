@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTDXBBAR",
+        "chainCode": "RT",
+        "dupeId": "700084604",
+        "name": "ibis Al Barsha",
+        "cityCode": "DXB",
+        "latitude": 25.10872,
+        "longitude": 55.18397
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "FF2G0BCBPK",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "PIB",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "C1D",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 2,
+              "bedType": "SINGLE"
+            },
+            "description": {
+              "text": "FLEXIBLE RATE-Room only\nVouchers from clients without credit facilities\nStandard Room with 2 single beds GB TEST GB",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "total": "1960.41",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-02",
+                  "end": "2025-10-08"
+                },
+                "code": "CITY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "10.00",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "280.06"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-09",
+                  "base": "233.34"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "holdTime": {
+              "deadline": "2025-10-02T19:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "methods": [
+                  "TRAVEL_AGENT_ID"
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/FF2G0BCBPK",
+          "roomInformation": {
+            "description": "FLEXIBLE RATE-Room only\nVouchers from clients without credit facilities\nStandard Room with 2 single beds GB TEST GB",
+            "type": "C1D",
+            "typeEstimated": {
+              "bedType": "SINGLE",
+              "beds": 2,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTDXBBAR&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=ATDXBRAC"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RTDXBNAB,RTDXBSHA,WVDXB235"
+      }
+    },
+    {
+      "code": 11,
+      "title": "UNABLE TO PROCESS",
+      "detail": "Provider Error - UNABLE TO PROCESS",
+      "source": {
+        "parameter": "hotelIds=WADXB903,XNDXB005"
+      }
+    }
+  ]
+}

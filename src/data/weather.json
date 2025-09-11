@@ -1,0 +1,38 @@
+{
+  "Bangkok": {
+    "2025-10-01": {"temp_c": 30.2, "condition": "Thunderstorms", "precip_mm": 20.5, "rain_prob": 85, "humidity": 84, "wind_kph": 11.8},
+    "2025-10-02": {"temp_c": 29.6, "condition": "Showers", "precip_mm": 15.3, "rain_prob": 75, "humidity": 86, "wind_kph": 10.5},
+    "2025-10-03": {"temp_c": 30.0, "condition": "Light rain", "precip_mm": 8.7, "rain_prob": 65, "humidity": 82, "wind_kph": 9.8},
+    "2025-10-04": {"temp_c": 29.2, "condition": "Thunderstorms", "precip_mm": 25.0, "rain_prob": 90, "humidity": 88, "wind_kph": 13.2},
+    "2025-10-05": {"temp_c": 30.5, "condition": "Showers", "precip_mm": 12.1, "rain_prob": 70, "humidity": 83, "wind_kph": 12.0},
+    "2025-10-06": {"temp_c": 29.8, "condition": "Light rain", "precip_mm": 9.4, "rain_prob": 68, "humidity": 81, "wind_kph": 9.5},
+    "2025-10-07": {"temp_c": 28.1, "condition": "Partly cloudy", "precip_mm": 3.0, "rain_prob": 40, "humidity": 78, "wind_kph": 10.2},
+    "2025-10-08": {"temp_c": 29.3, "condition": "Showers", "precip_mm": 14.0, "rain_prob": 72, "humidity": 85, "wind_kph": 11.0},
+    "2025-10-09": {"temp_c": 27.7, "condition": "Thunderstorms", "precip_mm": 22.0, "rain_prob": 85, "humidity": 86, "wind_kph": 12.5},
+    "2025-10-10": {"temp_c": 29.9, "condition": "Light rain", "precip_mm": 7.8, "rain_prob": 60, "humidity": 80, "wind_kph": 9.7}
+  },
+  "Dubai": {
+    "2025-10-01": {"temp_c": 38.0, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 32, "wind_kph": 17.0},
+    "2025-10-02": {"temp_c": 37.5, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 33, "wind_kph": 18.0},
+    "2025-10-03": {"temp_c": 36.8, "condition": "Hot and sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 34, "wind_kph": 19.0},
+    "2025-10-04": {"temp_c": 37.9, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 31, "wind_kph": 16.0},
+    "2025-10-05": {"temp_c": 36.0, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 35, "wind_kph": 15.0},
+    "2025-10-06": {"temp_c": 38.7, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 36, "wind_kph": 14.0},
+    "2025-10-07": {"temp_c": 36.9, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 37, "wind_kph": 13.0},
+    "2025-10-08": {"temp_c": 36.2, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 33, "wind_kph": 16.0},
+    "2025-10-09": {"temp_c": 37.0, "condition": "Hot and sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 32, "wind_kph": 18.0},
+    "2025-10-10": {"temp_c": 35.5, "condition": "Sunny", "precip_mm": 0.0, "rain_prob": 0, "humidity": 34, "wind_kph": 15.0}
+  },
+  "Reykjavik": {
+    "2025-10-01": {"temp_c": 5.2, "condition": "Light rain", "precip_mm": 2.6, "rain_prob": 50, "humidity": 80, "wind_kph": 24.0},
+    "2025-10-02": {"temp_c": 4.1, "condition": "Cloudy", "precip_mm": 1.2, "rain_prob": 35, "humidity": 78, "wind_kph": 22.5},
+    "2025-10-03": {"temp_c": 3.7, "condition": "Light rain", "precip_mm": 3.1, "rain_prob": 55, "humidity": 82, "wind_kph": 26.0},
+    "2025-10-04": {"temp_c": 2.9, "condition": "Overcast", "precip_mm": 0.8, "rain_prob": 30, "humidity": 76, "wind_kph": 20.0},
+    "2025-10-05": {"temp_c": 3.3, "condition": "Rain and wind", "precip_mm": 5.7, "rain_prob": 65, "humidity": 85, "wind_kph": 28.0},
+    "2025-10-06": {"temp_c": 2.5, "condition": "Sleet", "precip_mm": 4.0, "rain_prob": 60, "humidity": 88, "wind_kph": 27.0},
+    "2025-10-07": {"temp_c": 1.8, "condition": "Light snow", "precip_mm": 1.0, "rain_prob": 40, "humidity": 86, "wind_kph": 23.0},
+    "2025-10-08": {"temp_c": 3.0, "condition": "Light rain", "precip_mm": 2.2, "rain_prob": 50, "humidity": 82, "wind_kph": 21.5},
+    "2025-10-09": {"temp_c": 4.4, "condition": "Cloudy", "precip_mm": 0.5, "rain_prob": 25, "humidity": 75, "wind_kph": 19.0},
+    "2025-10-10": {"temp_c": 2.7, "condition": "Overcast", "precip_mm": 0.9, "rain_prob": 30, "humidity": 78, "wind_kph": 20.5}
+  }
+}

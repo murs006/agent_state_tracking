@@ -1,0 +1,477 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCDXBHRM",
+        "chainCode": "MC",
+        "dupeId": "700042223",
+        "name": "Dubai Marriott Harbour Hotel and Suites",
+        "cityCode": "DXB",
+        "latitude": 25.08966,
+        "longitude": 55.1484
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "XM21DGIZXH",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLP",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom, 1 King, Microwave,\n120sqm/1291sqft, Living/sitting area, Dining",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "6675.05",
+            "total": "8281.94",
+            "variations": {
+              "average": {
+                "base": "953.58"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "968.15"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "934.15"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "968.15"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "1200.99",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/XM21DGIZXH",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nOne Bedroom, 1 King, Microwave,\n120sqm/1291sqft, Living/sitting area, Dining",
+            "type": "SLP",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCDXBHRM&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MDDXB342",
+        "chainCode": "MD",
+        "dupeId": "700003326",
+        "name": "Le Royal Meridien Beach Resort and Spa",
+        "cityCode": "DXB",
+        "latitude": 25.08511,
+        "longitude": 55.13929
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "ZRJ2YEHQRZ",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "XXF",
+            "typeEstimated": {
+              "category": "FAMILY_ROOM",
+              "beds": 2,
+              "bedType": "TWIN"
+            },
+            "description": {
+              "text": "Family Fun Special: 50% Off Second Room - Kids Under 16\nSuper Deluxe Room - City View,  Twin,\n35sqm/377sqft, Wireless internet, for a fee,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "8400.00",
+            "total": "10430.00",
+            "variations": {
+              "average": {
+                "base": "1200.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "1150.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "1200.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "1250.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-28T23:59:00+04:00",
+                "amount": "1428.75",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "deposit",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/ZRJ2YEHQRZ",
+          "roomInformation": {
+            "description": "Family Fun Special: 50% Off Second Room - Kids Under 16\nSuper Deluxe Room - City View,  Twin,\n35sqm/377sqft, Wireless internet, for a fee,",
+            "type": "XXF",
+            "typeEstimated": {
+              "bedType": "TWIN",
+              "beds": 2,
+              "category": "FAMILY_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MDDXB342&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MDDXBMER",
+        "chainCode": "MD",
+        "dupeId": "700009361",
+        "name": "Le Meridien Mina Seyahi Beach Resort and Waterpark",
+        "cityCode": "DXB",
+        "latitude": 25.09188,
+        "longitude": 55.14728
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "QKFKM6TT6Z",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "SLA",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room Skyline View, 1 King,\n32sqm/344sqft-36sqm/387sqft, Living/sitting",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "6608.70",
+            "total": "8235.66",
+            "variations": {
+              "average": {
+                "base": "944.10"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-08",
+                  "base": "944.10"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "1176.53",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "deposit",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/QKFKM6TT6Z",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Room Skyline View, 1 King,\n32sqm/344sqft-36sqm/387sqft, Living/sitting",
+            "type": "SLA",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MDDXBMER&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "SIDXB326",
+        "chainCode": "SI",
+        "dupeId": "700011527",
+        "name": "Sheraton Jumeirah Beach Resort",
+        "cityCode": "DXB",
+        "latitude": 25.07332,
+        "longitude": 55.12897
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "0MABKP4ZOO",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "BAR",
+            "type": "P"
+          },
+          "room": {
+            "type": "REG",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Flexible Rate\nDeluxe JBR View, 1 King, Mini fridge,\n36sqm/387sqft, Wireless internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "6650.00",
+            "total": "8286.25",
+            "variations": {
+              "average": {
+                "base": "950.00"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-08",
+                  "base": "950.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "1183.75",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/0MABKP4ZOO",
+          "roomInformation": {
+            "description": "Flexible Rate\nDeluxe JBR View, 1 King, Mini fridge,\n36sqm/387sqft, Wireless internet,",
+            "type": "REG",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=SIDXB326&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "WIDXB034",
+        "chainCode": "WI",
+        "dupeId": "700049631",
+        "name": "The Westin Dubai Mina Seyahi Beach Resort and Marina",
+        "cityCode": "DXB",
+        "latitude": 25.09188,
+        "longitude": 55.14728
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "IUDGE33KOX",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "SLA",
+            "typeEstimated": {
+              "category": "DELUXE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Skyline View, 1 King,\n52sqm/560sqft-54sqm/581sqft, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "7823.70",
+            "total": "9724.05",
+            "variations": {
+              "average": {
+                "base": "1117.67"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "1034.10"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "1124.10"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "1259.10"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-08",
+                  "base": "1124.10"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+04:00",
+                "amount": "1286.78",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/IUDGE33KOX",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nDeluxe Skyline View, 1 King,\n52sqm/560sqft-54sqm/581sqft, Wireless",
+            "type": "SLA",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "DELUXE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=WIDXB034&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=ATDXBMAR,ATDXBMON"
+      }
+    },
+    {
+      "code": 1,
+      "title": "CHECK FORMAT",
+      "detail": "Provider Error - CHECK FORMAT",
+      "source": {
+        "parameter": "hotelIds=HLDXB100,HLDXB111"
+      }
+    },
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=RDDXB907"
+      }
+    }
+  ]
+}

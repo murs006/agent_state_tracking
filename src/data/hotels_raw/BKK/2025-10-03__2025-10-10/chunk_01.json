@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MCBKKDTM",
+        "chainCode": "MC",
+        "dupeId": "700008853",
+        "name": "JW Marriott Hotel Bangkok",
+        "cityCode": "BKK",
+        "latitude": 13.74266,
+        "longitude": 100.55186
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "Y34109GKLB",
+          "checkInDate": "2025-10-03",
+          "checkOutDate": "2025-10-10",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "LTZ",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "STAY LONGER SAVE MORE, includes WiFi\nGuest Room, City View, 1 King, Mini fridge,\n33sqm/355sqft, Wireless internet,",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "43985.00",
+            "total": "51770.36",
+            "variations": {
+              "average": {
+                "base": "6283.57"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "6650.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "6745.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-08",
+                  "base": "5985.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "6270.00"
+                },
+                {
+                  "startDate": "2025-10-09",
+                  "endDate": "2025-10-10",
+                  "base": "6365.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-02T23:59:00+07:00",
+                "amount": "7115.50",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/Y34109GKLB",
+          "roomInformation": {
+            "description": "STAY LONGER SAVE MORE, includes WiFi\nGuest Room, City View, 1 King, Mini fridge,\n33sqm/355sqft, Wireless internet,",
+            "type": "LTZ",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MCBKKDTM&adults=1&checkInDate=2025-10-03&checkOutDate=2025-10-10&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=BWBKK328,RTBKKSIA"
+      }
+    },
+    {
+      "code": 3289,
+      "title": "RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "detail": "Provider Error - RATE NOT AVAILABLE FOR REQUESTED DATES",
+      "source": {
+        "parameter": "hotelIds=RTBKKVIE"
+      }
+    },
+    {
+      "code": 3494,
+      "title": "ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "detail": "Provider Error - ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "source": {
+        "parameter": "hotelIds=SXBKKFXS"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIBKKCHA,UIBKKOSB"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=BWBKK353,BWBKK356,WVBKK229,WVBKKEAS"
+      }
+    }
+  ]
+}

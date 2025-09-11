@@ -1,0 +1,684 @@
+{
+  "search": {
+    "cityCode": "BKK",
+    "checkInDate": "2025-10-01",
+    "checkOutDate": "2025-10-08",
+    "adults": 1,
+    "currency": "USD",
+    "n_batches": 9
+  },
+  "hotels": [
+    {
+      "hotelId": "RTBKKSUV",
+      "name": "Novotel Bangkok Suvarnabhumi Airport",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.69721,
+      "lon": 100.75192,
+      "offers": [
+        {
+          "id": "Y966D555D5",
+          "priceTotal": 6822.9,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "B1K",
+          "description": "Best Rate-Room only\nExecutive Premier Floor 1 King Bed",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "Y966D555D5",
+        "priceTotal": 6822.9,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "B1K",
+        "description": "Best Rate-Room only\nExecutive Premier Floor 1 King Bed",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTBKKNAN",
+      "name": "ibis Bangkok Sukhumvit 4",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.73767,
+      "lon": 100.55336,
+      "offers": [
+        {
+          "id": "RVALDZUS7F",
+          "priceTotal": 13309.12,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "C2T",
+          "description": "FGR Itzel-Room only\nStandard Twin Beds",
+          "cancellable": false
+        }
+      ],
+      "cheapest": {
+        "id": "RVALDZUS7F",
+        "priceTotal": 13309.12,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "C2T",
+        "description": "FGR Itzel-Room only\nStandard Twin Beds",
+        "cancellable": false
+      }
+    },
+    {
+      "hotelId": "RTBKKLOT",
+      "name": "Bangkok Hotel Lotus Sukhumvit",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.73329,
+      "lon": 100.56673,
+      "offers": [
+        {
+          "id": "YHHMW9WW5C",
+          "priceTotal": 15492.0,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "B1D",
+          "description": "Best Rate-Room only\nSuperior King Bed Room",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "YHHMW9WW5C",
+        "priceTotal": 15492.0,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "B1D",
+        "description": "Best Rate-Room only\nSuperior King Bed Room",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTBKKFOR",
+      "name": "Grand Mercure Bangkok Fortune",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.75672,
+      "lon": 100.56464,
+      "offers": [
+        {
+          "id": "4M1E5PGC2A",
+          "priceTotal": 17591.44,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "B1K",
+          "description": "Best Rate-Room only\nSuperior 1 King bed",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "4M1E5PGC2A",
+        "priceTotal": 17591.44,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "B1K",
+        "description": "Best Rate-Room only\nSuperior 1 King bed",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTBKKASO",
+      "name": "Grand Mercure Bangkok Asoke Residence",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.74167,
+      "lon": 100.56083,
+      "offers": [
+        {
+          "id": "US1VJU2XIO",
+          "priceTotal": 23145.7,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "B1K",
+          "description": "Best Rate-Room only\nDeluxe Suite 1 King Bed",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "US1VJU2XIO",
+        "priceTotal": 23145.7,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "B1K",
+        "description": "Best Rate-Room only\nDeluxe Suite 1 King Bed",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "RTBKKBAN",
+      "name": "Novotel Bangkok Bangna",
+      "chainCode": "RT",
+      "iataCode": null,
+      "lat": 13.67312,
+      "lon": 100.64671,
+      "offers": [
+        {
+          "id": "C6CNF3OR7O",
+          "priceTotal": 24250.0,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "B1D",
+          "description": "Best Rate-Room only\nStandard 2 Single Beds Smoking Room",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "C6CNF3OR7O",
+        "priceTotal": 24250.0,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "B1D",
+        "description": "Best Rate-Room only\nStandard 2 Single Beds Smoking Room",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "PUBKKMON",
+      "name": "Pullman Bangkok Hotel G",
+      "chainCode": "PU",
+      "iataCode": null,
+      "lat": 13.7258,
+      "lon": 100.52593,
+      "offers": [
+        {
+          "id": "6IJ3BSQQ5Y",
+          "priceTotal": 25334.92,
+          "currency": "THB",
+          "boardType": "BREAKFAST",
+          "roomType": "A1K",
+          "description": "Promotion Rate-BB/Bed+Brkfast\nExecutive Room 2 Single Beds",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "6IJ3BSQQ5Y",
+        "priceTotal": 25334.92,
+        "currency": "THB",
+        "boardType": "BREAKFAST",
+        "roomType": "A1K",
+        "description": "Promotion Rate-BB/Bed+Brkfast\nExecutive Room 2 Single Beds",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "HIBKK426",
+      "name": "Holiday Inn BKK Sukhumvit",
+      "chainCode": "HI",
+      "iataCode": null,
+      "lat": 13.72462,
+      "lon": 100.56471,
+      "offers": [
+        {
+          "id": "91UMAJD8BL",
+          "priceTotal": 26945.06,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "*RH",
+          "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "91UMAJD8BL",
+        "priceTotal": 26945.06,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "*RH",
+        "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "ALBKK211",
+      "name": "Aloft Bangkok Sukhumvit 11",
+      "chainCode": "AL",
+      "iataCode": null,
+      "lat": 13.74436,
+      "lon": 100.55652,
+      "offers": [
+        {
+          "id": "OHNEU7PJUG",
+          "priceTotal": 27506.51,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTA",
+          "description": "Stay Longer Save More, 20 pct discount off, WiFi\n2 Queen, Mini fridge, 32sqm/344sqft,\nLiving/sitting area, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "OHNEU7PJUG",
+        "priceTotal": 27506.51,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTA",
+        "description": "Stay Longer Save More, 20 pct discount off, WiFi\n2 Queen, Mini fridge, 32sqm/344sqft,\nLiving/sitting area, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "CYBKKCYC",
+      "name": "Courtyard by Marriott Bangkok",
+      "chainCode": "CY",
+      "iataCode": null,
+      "lat": 13.74018,
+      "lon": 100.5422,
+      "offers": [
+        {
+          "id": "8P3GFW6FKH",
+          "priceTotal": 28656.4,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTA",
+          "description": "Long Term Stay rate\nRenovated Deluxe King Room, 1 King, Mini\nfridge, 30sqm/323sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "8P3GFW6FKH",
+        "priceTotal": 28656.4,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTA",
+        "description": "Long Term Stay rate\nRenovated Deluxe King Room, 1 King, Mini\nfridge, 30sqm/323sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "HIBKK47E",
+      "name": "HOLIDAY INN BANGKOK",
+      "chainCode": "HI",
+      "iataCode": null,
+      "lat": 13.74398,
+      "lon": 100.5443,
+      "offers": [
+        {
+          "id": "Z0G50X247E",
+          "priceTotal": 33369.13,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "*RH",
+          "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "Z0G50X247E",
+        "priceTotal": 33369.13,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "*RH",
+        "description": "BOOK EARLY ADVANCE PURCHASE\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCBKKEAM",
+      "name": "Sathorn Vista Bangkok - Marriott Executive Apartments",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 13.72335,
+      "lon": 100.53684,
+      "offers": [
+        {
+          "id": "DPJ8U0L8Z9",
+          "priceTotal": 35001.43,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "ECP",
+          "description": "Weekly Package Room Only, prepay in full, non-refundable\n1 Bedroom Deluxe Suite, 1 King, Full kitchen,\nMicrowave, 65sqm/699sqft, Living/sitting",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "DPJ8U0L8Z9",
+        "priceTotal": 35001.43,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "ECP",
+        "description": "Weekly Package Room Only, prepay in full, non-refundable\n1 Bedroom Deluxe Suite, 1 King, Full kitchen,\nMicrowave, 65sqm/699sqft, Living/sitting",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCBKKSPM",
+      "name": "Sukhumvit Park Bangkok - Marriott Executive Apartments",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 13.72749,
+      "lon": 100.56816,
+      "offers": [
+        {
+          "id": "16SHGU2GA7",
+          "priceTotal": 36787.14,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "L0I",
+          "description": "Extended Stay Offer, breakfast daily, 5+ Nights\nStudio, 1 King, Kitchenette, 45sqm/484sqft,\nLiving/sitting area, Dining area, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "16SHGU2GA7",
+        "priceTotal": 36787.14,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "L0I",
+        "description": "Extended Stay Offer, breakfast daily, 5+ Nights\nStudio, 1 King, Kitchenette, 45sqm/484sqft,\nLiving/sitting area, Dining area, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "SIBKK172",
+      "name": "Royal Orchid Sheraton Hotel and Towers",
+      "chainCode": "SI",
+      "iataCode": null,
+      "lat": 13.72893,
+      "lon": 100.51404,
+      "offers": [
+        {
+          "id": "P9SU6KEUQ1",
+          "priceTotal": 37022.56,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LDB",
+          "description": "Stay Longer Save More, buffet breakfast daily\nGuaranteed panoramic river view with floor to\nceiling window, 1 King, 36sqm/387sqft,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "P9SU6KEUQ1",
+        "priceTotal": 37022.56,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LDB",
+        "description": "Stay Longer Save More, buffet breakfast daily\nGuaranteed panoramic river view with floor to\nceiling window, 1 King, 36sqm/387sqft,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCBKKBPM",
+      "name": "Marriott Executive Apartments Bangkok Sukhumvit Thonglor",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 13.72328,
+      "lon": 100.58026,
+      "offers": [
+        {
+          "id": "2W2NMG8K2Z",
+          "priceTotal": 37891.16,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTS",
+          "description": "Long Stay Rate, 20 percent off on F&B, Spa & Laundry, includes\nOne Bedroom Apartment, 1 King, Full kitchen,\nMini fridge, Microwave, 55sqm/592sqft,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "2W2NMG8K2Z",
+        "priceTotal": 37891.16,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTS",
+        "description": "Long Stay Rate, 20 percent off on F&B, Spa & Laundry, includes\nOne Bedroom Apartment, 1 King, Full kitchen,\nMini fridge, Microwave, 55sqm/592sqft,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "CPBKK3C3",
+      "name": "CROWNE PLAZA LUMPINI PARK",
+      "chainCode": "CP",
+      "iataCode": null,
+      "lat": 13.72967,
+      "lon": 100.53503,
+      "offers": [
+        {
+          "id": "EGTS0QVG5V",
+          "priceTotal": 41187.09,
+          "currency": "THB",
+          "boardType": "BREAKFAST",
+          "roomType": "*RH",
+          "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "EGTS0QVG5V",
+        "priceTotal": 41187.09,
+        "currency": "THB",
+        "boardType": "BREAKFAST",
+        "roomType": "*RH",
+        "description": "STAY LONGER  PAY LESS Take advantage of special\nsavings the longer you stay. Includes\nStandard Room When you arrive at the hotel we\nwill do our best to meet your room type",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "HIBKKCAC",
+      "name": "HOLIDAY INN BANGKOK SILOM",
+      "chainCode": "HI",
+      "iataCode": null,
+      "lat": 13.72714,
+      "lon": 100.53008,
+      "offers": [
+        {
+          "id": "WAQ6EX5BJT",
+          "priceTotal": 41789.39,
+          "currency": "THB",
+          "boardType": "ROOM_ONLY",
+          "roomType": "*1K",
+          "description": "BOOK EARLY ADVANCE PURCHASE\n1 King Premium CityView Non Smoking 36 SqM Room\nwith Free High Speed Internet Kids Stay and Eat",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "WAQ6EX5BJT",
+        "priceTotal": 41789.39,
+        "currency": "THB",
+        "boardType": "ROOM_ONLY",
+        "roomType": "*1K",
+        "description": "BOOK EARLY ADVANCE PURCHASE\n1 King Premium CityView Non Smoking 36 SqM Room\nwith Free High Speed Internet Kids Stay and Eat",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCBKKMSM",
+      "name": "Bangkok Marriott Hotel Sukhumvit",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 13.72441,
+      "lon": 100.56652,
+      "offers": [
+        {
+          "id": "SMRPU1VRXW",
+          "priceTotal": 45005.54,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "ZEY",
+          "description": "Stay Longer Save More, 20% discount on F&B\n1 King, Whirlpool fits 1, Mini fridge,\n36sqm/387sqft, Living/sitting area, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "SMRPU1VRXW",
+        "priceTotal": 45005.54,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "ZEY",
+        "description": "Stay Longer Save More, 20% discount on F&B\n1 King, Whirlpool fits 1, Mini fridge,\n36sqm/387sqft, Living/sitting area, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "WIBKK446",
+      "name": "The Westin Grande Sukhumvit Bangkok",
+      "chainCode": "WI",
+      "iataCode": null,
+      "lat": 13.73825,
+      "lon": 100.56126,
+      "offers": [
+        {
+          "id": "UALY1QYS8T",
+          "priceTotal": 46235.51,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LDB",
+          "description": "Stay Longer Save More\nDeluxe, 1 King, Tub with spray jets, Mini\nfridge, 40sqm/430sqft-45sqm/484sqft, Wireless",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "UALY1QYS8T",
+        "priceTotal": 46235.51,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LDB",
+        "description": "Stay Longer Save More\nDeluxe, 1 King, Tub with spray jets, Mini\nfridge, 40sqm/430sqft-45sqm/484sqft, Wireless",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MDBKK031",
+      "name": "Le Meridien Suvarnabhumi Bangkok Golf Resort and Spa",
+      "chainCode": "MD",
+      "iataCode": null,
+      "lat": 13.67627,
+      "lon": 100.68601,
+      "offers": [
+        {
+          "id": "YEQJECSS39",
+          "priceTotal": 46647.09,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTA",
+          "description": "Stay Longer Save More, roundtrip airport shuttle\n1 King, Mini fridge, 48sqm/516sqft, Wireless\ninternet, complimentary, Wired internet, for",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "YEQJECSS39",
+        "priceTotal": 46647.09,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTA",
+        "description": "Stay Longer Save More, roundtrip airport shuttle\n1 King, Mini fridge, 48sqm/516sqft, Wireless\ninternet, complimentary, Wired internet, for",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MDBKK946",
+      "name": "Le Meridien Bangkok",
+      "chainCode": "MD",
+      "iataCode": null,
+      "lat": 13.72949,
+      "lon": 100.52994,
+      "offers": [
+        {
+          "id": "ID08FMX3A4",
+          "priceTotal": 49434.0,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTS",
+          "description": "Stay Longer Save More\nDeluxe, 1 King, 36sqm/387sqft, Wireless\ninternet, complimentary, Wired internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "ID08FMX3A4",
+        "priceTotal": 49434.0,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTS",
+        "description": "Stay Longer Save More\nDeluxe, 1 King, 36sqm/387sqft, Wireless\ninternet, complimentary, Wired internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "WHBKK258",
+      "name": "W Bangkok",
+      "chainCode": "WH",
+      "iataCode": null,
+      "lat": 13.72221,
+      "lon": 100.52902,
+      "offers": [
+        {
+          "id": "B17LNROGRR",
+          "priceTotal": 50140.2,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "REG",
+          "description": "Flexible Rate\nStandard Room, 2 Queen, Mini fridge,\n41sqm/441sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "B17LNROGRR",
+        "priceTotal": 50140.2,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "REG",
+        "description": "Flexible Rate\nStandard Room, 2 Queen, Mini fridge,\n41sqm/441sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "MCBKKDTM",
+      "name": "JW Marriott Hotel Bangkok",
+      "chainCode": "MC",
+      "iataCode": null,
+      "lat": 13.74266,
+      "lon": 100.55186,
+      "offers": [
+        {
+          "id": "RYH35NQZBV",
+          "priceTotal": 52553.07,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "LTZ",
+          "description": "STAY LONGER SAVE MORE, includes WiFi\nGuest Room, City View, 1 King, Mini fridge,\n33sqm/355sqft, Wireless internet,",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "RYH35NQZBV",
+        "priceTotal": 52553.07,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "LTZ",
+        "description": "STAY LONGER SAVE MORE, includes WiFi\nGuest Room, City View, 1 King, Mini fridge,\n33sqm/355sqft, Wireless internet,",
+        "cancellable": true
+      }
+    },
+    {
+      "hotelId": "XRBKK199",
+      "name": "The St Regis Bangkok",
+      "chainCode": "XR",
+      "iataCode": null,
+      "lat": 13.73977,
+      "lon": 100.54002,
+      "offers": [
+        {
+          "id": "VAUHPD8IDD",
+          "priceTotal": 85803.3,
+          "currency": "THB",
+          "boardType": null,
+          "roomType": "REG",
+          "description": "Flexible Rate\nDeluxe Rooms offer Floor-to-ceiling windows\nwith abundant natural light, 1 King, Mini",
+          "cancellable": true
+        }
+      ],
+      "cheapest": {
+        "id": "VAUHPD8IDD",
+        "priceTotal": 85803.3,
+        "currency": "THB",
+        "boardType": null,
+        "roomType": "REG",
+        "description": "Flexible Rate\nDeluxe Rooms offer Floor-to-ceiling windows\nwith abundant natural light, 1 King, Mini",
+        "cancellable": true
+      }
+    }
+  ]
+}

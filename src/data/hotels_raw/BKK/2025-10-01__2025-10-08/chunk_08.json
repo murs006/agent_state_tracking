@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "MDBKK031",
+        "chainCode": "MD",
+        "dupeId": "501418891",
+        "name": "Le Meridien Suvarnabhumi Bangkok Golf Resort and Spa",
+        "cityCode": "BKK",
+        "latitude": 13.67627,
+        "longitude": 100.68601
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "YEQJECSS39",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "RAC",
+          "room": {
+            "type": "LTA",
+            "typeEstimated": {
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer Save More, roundtrip airport shuttle\n1 King, Mini fridge, 48sqm/516sqft, Wireless\ninternet, complimentary, Wired internet, for",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "base": "38970.00",
+            "total": "46647.09",
+            "variations": {
+              "average": {
+                "base": "5567.14"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "5490.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-04",
+                  "base": "5760.00"
+                },
+                {
+                  "startDate": "2025-10-04",
+                  "endDate": "2025-10-05",
+                  "base": "5850.00"
+                },
+                {
+                  "startDate": "2025-10-05",
+                  "endDate": "2025-10-07",
+                  "base": "5490.00"
+                },
+                {
+                  "startDate": "2025-10-07",
+                  "endDate": "2025-10-08",
+                  "base": "5400.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T23:59:00+07:00",
+                "amount": "5984.10",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/YEQJECSS39",
+          "roomInformation": {
+            "description": "Stay Longer Save More, roundtrip airport shuttle\n1 King, Mini fridge, 48sqm/516sqft, Wireless\ninternet, complimentary, Wired internet, for",
+            "type": "LTA",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=MDBKK031&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    },
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "RTBKKSUV",
+        "chainCode": "RT",
+        "dupeId": "700042606",
+        "name": "Novotel Bangkok Suvarnabhumi Airport",
+        "cityCode": "BKK",
+        "latitude": 13.69721,
+        "longitude": 100.75192
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "Y966D555D5",
+          "checkInDate": "2025-10-01",
+          "checkOutDate": "2025-10-08",
+          "rateCode": "1SL",
+          "boardType": "ROOM_ONLY",
+          "room": {
+            "type": "B1K",
+            "typeEstimated": {
+              "category": "EXECUTIVE_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Best Rate-Room only\nExecutive Premier Floor 1 King Bed",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "THB",
+            "total": "6822.90",
+            "taxes": [
+              {
+                "applicableDate": {
+                  "start": "2025-10-01",
+                  "end": "2025-10-07"
+                },
+                "code": "COUNTRY_TAX",
+                "pricingFrequency": "PER_NIGHT",
+                "pricingMode": "PER_PRODUCT",
+                "percentage": "19.70",
+                "included": true
+              }
+            ],
+            "variations": {
+              "average": {
+                "total": "974.70"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-01",
+                  "endDate": "2025-10-03",
+                  "base": "840.00"
+                },
+                {
+                  "startDate": "2025-10-03",
+                  "endDate": "2025-10-06",
+                  "base": "780.00"
+                },
+                {
+                  "startDate": "2025-10-06",
+                  "endDate": "2025-10-08",
+                  "base": "840.00"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-09-30T00:00:00+07:00",
+                "description": {
+                  "text": "No cancellation charge applies up to 1 day prior to arrival. Beyond that time, the first night will be charged."
+                },
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "holdTime": {
+              "deadline": "2025-10-01T18:00:00"
+            },
+            "guarantee": {
+              "acceptedPayments": {
+                "creditCards": [
+                  "AX",
+                  "CA",
+                  "DC",
+                  "EC",
+                  "IK",
+                  "JC",
+                  "EE"
+                ],
+                "methods": [
+                  "TRAVEL_AGENT_ID",
+                  "CREDIT_CARD"
+                ],
+                "creditCardPolicies": [
+                  {
+                    "vendorCode": "AX"
+                  },
+                  {
+                    "vendorCode": "CA"
+                  },
+                  {
+                    "vendorCode": "DC"
+                  },
+                  {
+                    "vendorCode": "EC"
+                  },
+                  {
+                    "vendorCode": "IK"
+                  },
+                  {
+                    "vendorCode": "JC"
+                  },
+                  {
+                    "vendorCode": "EE"
+                  }
+                ]
+              }
+            },
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/Y966D555D5",
+          "roomInformation": {
+            "description": "Best Rate-Room only\nExecutive Premier Floor 1 King Bed",
+            "type": "B1K",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "EXECUTIVE_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=RTBKKSUV&adults=1&checkInDate=2025-10-01&checkOutDate=2025-10-08&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "THB": {
+        "rate": "0.03094036",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 3494,
+      "title": "ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "detail": "Provider Error - ROOM OR RATE NOT AVAILABLE OR RESTRICTED",
+      "source": {
+        "parameter": "hotelIds=CHBKKBSR,ONBKKBAN,ONBKKRSA,ONBKKSUP,ONBKKTHT"
+      }
+    },
+    {
+      "code": 10604,
+      "title": "INVALID OR MISSING DATA",
+      "detail": "Provider Error - INVALID OR MISSING DATA",
+      "source": {
+        "parameter": "hotelIds=UIBKK692"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=BWBKK330,UIBKKPPH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "type": "hotel-offers",
+      "hotel": {
+        "type": "hotel",
+        "hotelId": "SIDXB093",
+        "chainCode": "SI",
+        "dupeId": "700049629",
+        "name": "FOUR POINTS DOWNTOWN DUBAI",
+        "cityCode": "DXB",
+        "latitude": 25.25196,
+        "longitude": 55.29285
+      },
+      "available": true,
+      "offers": [
+        {
+          "id": "YLJT7KFI3S",
+          "checkInDate": "2025-10-02",
+          "checkOutDate": "2025-10-09",
+          "rateCode": "RAC",
+          "rateFamilyEstimated": {
+            "code": "PRO",
+            "type": "P"
+          },
+          "room": {
+            "type": "SLA",
+            "typeEstimated": {
+              "category": "STANDARD_ROOM",
+              "beds": 1,
+              "bedType": "KING"
+            },
+            "description": {
+              "text": "Stay Longer on Us, Save 10% or more as you stay longer\nClassic room, 1 King, Mini fridge,\n38sqm/409sqft, Living/sitting area, Wireless",
+              "lang": "EN"
+            }
+          },
+          "guests": {
+            "adults": 1
+          },
+          "price": {
+            "currency": "AED",
+            "base": "3076.15",
+            "total": "4027.10",
+            "variations": {
+              "average": {
+                "base": "439.45"
+              },
+              "changes": [
+                {
+                  "startDate": "2025-10-02",
+                  "endDate": "2025-10-08",
+                  "base": "442.00"
+                },
+                {
+                  "startDate": "2025-10-08",
+                  "endDate": "2025-10-09",
+                  "base": "424.15"
+                }
+              ]
+            }
+          },
+          "policies": {
+            "cancellations": [
+              {
+                "numberOfNights": 1,
+                "deadline": "2025-10-01T23:59:00+04:00",
+                "amount": "442.00",
+                "policyType": "CANCELLATION"
+              }
+            ],
+            "paymentType": "guarantee",
+            "refundable": {
+              "cancellationRefund": "REFUNDABLE_UP_TO_DEADLINE"
+            }
+          },
+          "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers/YLJT7KFI3S",
+          "roomInformation": {
+            "description": "Stay Longer on Us, Save 10% or more as you stay longer\nClassic room, 1 King, Mini fridge,\n38sqm/409sqft, Living/sitting area, Wireless",
+            "type": "SLA",
+            "typeEstimated": {
+              "bedType": "KING",
+              "beds": 1,
+              "category": "STANDARD_ROOM"
+            }
+          }
+        }
+      ],
+      "self": "https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=SIDXB093&adults=1&checkInDate=2025-10-02&checkOutDate=2025-10-09&currency=USD"
+    }
+  ],
+  "dictionaries": {
+    "currencyConversionLookupRates": {
+      "AED": {
+        "rate": "0.2723079",
+        "target": "USD",
+        "targetDecimalPlaces": 2
+      }
+    }
+  },
+  "warnings": [
+    {
+      "code": 1257,
+      "title": "INVALID PROPERTY CODE",
+      "detail": "Provider Error - INVALID PROPERTY CODE",
+      "source": {
+        "parameter": "hotelIds=ATDXB563"
+      }
+    },
+    {
+      "code": 3664,
+      "title": "NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "detail": "Provider Error - NO ROOMS AVAILABLE AT REQUESTED PROPERTY",
+      "source": {
+        "parameter": "hotelIds=FGDXB214,WVDXB488,WVDXBCTH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2762 @@
+{
+  "search": {
+    "origin": "JFK",
+    "destination": "BKK",
+    "departureDate": "2025-10-03",
+    "returnDate": "2025-10-10",
+    "adults": 1,
+    "currency": "USD"
+  },
+  "offers": [
+    {
+      "price": 823.01,
+      "validatingAirlineCodes": [
+        "PR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "127",
+              "from": "JFK",
+              "to": "MNL",
+              "dep": "2025-10-03T02:10:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT16H25M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "730",
+              "from": "MNL",
+              "to": "BKK",
+              "dep": "2025-10-04T09:40:00",
+              "arr": "2025-10-04T12:15:00",
+              "duration": "PT3H35M"
+            }
+          ],
+          "duration": "PT23H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "733",
+              "from": "BKK",
+              "to": "MNL",
+              "dep": "2025-10-10T22:55:00",
+              "arr": "2025-10-11T03:30:00",
+              "duration": "PT3H35M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "126",
+              "from": "MNL",
+              "to": "JFK",
+              "dep": "2025-10-11T19:20:00",
+              "arr": "2025-10-11T23:40:00",
+              "duration": "PT16H20M"
+            }
+          ],
+          "duration": "PT35H45M"
+        }
+      ],
+      "id": "fl_0ff1dc8b0e86"
+    },
+    {
+      "price": 823.01,
+      "validatingAirlineCodes": [
+        "PR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "127",
+              "from": "JFK",
+              "to": "MNL",
+              "dep": "2025-10-03T02:10:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT16H25M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "736",
+              "from": "MNL",
+              "to": "BKK",
+              "dep": "2025-10-04T14:55:00",
+              "arr": "2025-10-04T17:40:00",
+              "duration": "PT3H45M"
+            }
+          ],
+          "duration": "PT28H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "733",
+              "from": "BKK",
+              "to": "MNL",
+              "dep": "2025-10-10T22:55:00",
+              "arr": "2025-10-11T03:30:00",
+              "duration": "PT3H35M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "126",
+              "from": "MNL",
+              "to": "JFK",
+              "dep": "2025-10-11T19:20:00",
+              "arr": "2025-10-11T23:40:00",
+              "duration": "PT16H20M"
+            }
+          ],
+          "duration": "PT35H45M"
+        }
+      ],
+      "id": "fl_cc4af0fd0dcd"
+    },
+    {
+      "price": 823.01,
+      "validatingAirlineCodes": [
+        "PR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "127",
+              "from": "JFK",
+              "to": "MNL",
+              "dep": "2025-10-03T02:10:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT16H25M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "730",
+              "from": "MNL",
+              "to": "BKK",
+              "dep": "2025-10-04T09:40:00",
+              "arr": "2025-10-04T12:15:00",
+              "duration": "PT3H35M"
+            }
+          ],
+          "duration": "PT23H5M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "737",
+              "from": "BKK",
+              "to": "MNL",
+              "dep": "2025-10-10T20:50:00",
+              "arr": "2025-10-11T00:10:00",
+              "duration": "PT2H20M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "126",
+              "from": "MNL",
+              "to": "JFK",
+              "dep": "2025-10-11T19:20:00",
+              "arr": "2025-10-11T23:40:00",
+              "duration": "PT16H20M"
+            }
+          ],
+          "duration": "PT37H50M"
+        }
+      ],
+      "id": "fl_93d79cf100a8"
+    },
+    {
+      "price": 823.01,
+      "validatingAirlineCodes": [
+        "PR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "127",
+              "from": "JFK",
+              "to": "MNL",
+              "dep": "2025-10-03T02:10:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT16H25M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "736",
+              "from": "MNL",
+              "to": "BKK",
+              "dep": "2025-10-04T14:55:00",
+              "arr": "2025-10-04T17:40:00",
+              "duration": "PT3H45M"
+            }
+          ],
+          "duration": "PT28H30M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "PR",
+              "number": "737",
+              "from": "BKK",
+              "to": "MNL",
+              "dep": "2025-10-10T20:50:00",
+              "arr": "2025-10-11T00:10:00",
+              "duration": "PT2H20M"
+            },
+            {
+              "carrierCode": "PR",
+              "number": "126",
+              "from": "MNL",
+              "to": "JFK",
+              "dep": "2025-10-11T19:20:00",
+              "arr": "2025-10-11T23:40:00",
+              "duration": "PT16H20M"
+            }
+          ],
+          "duration": "PT37H50M"
+        }
+      ],
+      "id": "fl_3a0a36457c62"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_546164bc2dd8"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6514",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:30:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:05:00",
+              "arr": "2025-10-10T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT23H50M"
+        }
+      ],
+      "id": "fl_dcd285ffa049"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_b60dbbb0e8c5"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6637",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T23:00:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_79e82697f402"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6601",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T09:05:00",
+              "arr": "2025-10-10T12:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H25M"
+        }
+      ],
+      "id": "fl_abde55d42f0f"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_11a40d8e1e28"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6623",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_821b3f1b96a6"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6514",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:30:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:05:00",
+              "arr": "2025-10-10T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT23H50M"
+        }
+      ],
+      "id": "fl_3e8c4e04bcd7"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6637",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T23:00:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_78915af76006"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6601",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T09:05:00",
+              "arr": "2025-10-10T12:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H25M"
+        }
+      ],
+      "id": "fl_61088143c9f9"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6514",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:30:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:05:00",
+              "arr": "2025-10-10T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT23H50M"
+        }
+      ],
+      "id": "fl_2a3eb17188e0"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6623",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_8ec499278ddc"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6637",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T23:00:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_442c000b129d"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6601",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T09:05:00",
+              "arr": "2025-10-10T12:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H25M"
+        }
+      ],
+      "id": "fl_5e4e91274d97"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6623",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_900836a6a3da"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6600",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:10:00",
+              "arr": "2025-10-04T19:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT20H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T08:05:00",
+              "arr": "2025-10-11T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT29H15M"
+        }
+      ],
+      "id": "fl_2db3749a82af"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H45M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T08:05:00",
+              "arr": "2025-10-11T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT29H15M"
+        }
+      ],
+      "id": "fl_f13c215d9f7e"
+    },
+    {
+      "price": 1123.01,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "5551",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T21:30:00",
+              "arr": "2025-10-04T16:50:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6511",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:10:00",
+              "arr": "2025-10-05T07:05:00",
+              "duration": "PT6H55M"
+            }
+          ],
+          "duration": "PT22H35M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T08:05:00",
+              "arr": "2025-10-11T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT29H15M"
+        }
+      ],
+      "id": "fl_d02a063372f1"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_13e16442ded7"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6514",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:30:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:05:00",
+              "arr": "2025-10-10T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT23H50M"
+        }
+      ],
+      "id": "fl_d193c738e4d1"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6637",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T23:00:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6558",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:45:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_405da38a04bf"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6601",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T09:05:00",
+              "arr": "2025-10-10T12:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H25M"
+        }
+      ],
+      "id": "fl_a2d4afde8eda"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6623",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "5552",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:15:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_0b2cec184fd6"
+    },
+    {
+      "price": 1125.61,
+      "validatingAirlineCodes": [
+        "B6"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6643",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:35:00",
+              "duration": "PT12H15M"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6622",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "B6",
+              "number": "6512",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-11T00:05:00",
+              "duration": "PT7H"
+            },
+            {
+              "carrierCode": "B6",
+              "number": "6640",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T08:05:00",
+              "arr": "2025-10-11T15:20:00",
+              "duration": "PT14H15M"
+            }
+          ],
+          "duration": "PT29H15M"
+        }
+      ],
+      "id": "fl_d7393b07ad10"
+    },
+    {
+      "price": 1173.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "830",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:05:00",
+              "arr": "2025-10-05T06:55:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "837",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:15:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H40M"
+        }
+      ],
+      "id": "fl_ef9f8d226845"
+    },
+    {
+      "price": 1173.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "830",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:05:00",
+              "arr": "2025-10-05T06:55:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "835",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T22:45:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_596e915a3d00"
+    },
+    {
+      "price": 1173.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "830",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:05:00",
+              "arr": "2025-10-05T06:55:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "831",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:55:00",
+              "arr": "2025-10-10T11:40:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H35M"
+        }
+      ],
+      "id": "fl_313bc1feda67"
+    },
+    {
+      "price": 1173.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "830",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:05:00",
+              "arr": "2025-10-05T06:55:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "839",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_1faf5637b837"
+    },
+    {
+      "price": 1188.81,
+      "validatingAirlineCodes": [
+        "KE"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KE",
+              "number": "82",
+              "from": "JFK",
+              "to": "ICN",
+              "dep": "2025-10-03T13:10:00",
+              "arr": "2025-10-04T17:50:00",
+              "duration": "PT15H40M"
+            },
+            {
+              "carrierCode": "KE",
+              "number": "659",
+              "from": "ICN",
+              "to": "BKK",
+              "dep": "2025-10-04T19:45:00",
+              "arr": "2025-10-04T23:25:00",
+              "duration": "PT5H40M"
+            }
+          ],
+          "duration": "PT23H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "KE",
+              "number": "5066",
+              "from": "BKK",
+              "to": "ICN",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T08:25:00",
+              "duration": "PT5H30M"
+            },
+            {
+              "carrierCode": "KE",
+              "number": "81",
+              "from": "ICN",
+              "to": "JFK",
+              "dep": "2025-10-10T10:00:00",
+              "arr": "2025-10-10T11:00:00",
+              "duration": "PT14H"
+            }
+          ],
+          "duration": "PT21H5M"
+        }
+      ],
+      "id": "fl_6f219a87dc52"
+    },
+    {
+      "price": 1188.81,
+      "validatingAirlineCodes": [
+        "KE"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "KE",
+              "number": "82",
+              "from": "JFK",
+              "to": "ICN",
+              "dep": "2025-10-03T13:10:00",
+              "arr": "2025-10-04T17:50:00",
+              "duration": "PT15H40M"
+            },
+            {
+              "carrierCode": "KE",
+              "number": "659",
+              "from": "ICN",
+              "to": "BKK",
+              "dep": "2025-10-04T19:45:00",
+              "arr": "2025-10-04T23:25:00",
+              "duration": "PT5H40M"
+            }
+          ],
+          "duration": "PT23H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "KE",
+              "number": "5066",
+              "from": "BKK",
+              "to": "ICN",
+              "dep": "2025-10-10T00:55:00",
+              "arr": "2025-10-10T08:25:00",
+              "duration": "PT5H30M"
+            },
+            {
+              "carrierCode": "KE",
+              "number": "85",
+              "from": "ICN",
+              "to": "JFK",
+              "dep": "2025-10-10T19:30:00",
+              "arr": "2025-10-10T21:00:00",
+              "duration": "PT14H30M"
+            }
+          ],
+          "duration": "PT31H5M"
+        }
+      ],
+      "id": "fl_4b058e2831ec"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "828",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:30:00",
+              "arr": "2025-10-04T19:20:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "837",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:15:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H40M"
+        }
+      ],
+      "id": "fl_c573636046f5"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "837",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:15:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H40M"
+        }
+      ],
+      "id": "fl_f8f9b6c5d1c6"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "828",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:30:00",
+              "arr": "2025-10-04T19:20:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "835",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T22:45:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_843465f9bb52"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "835",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T22:45:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_8719fc0ca897"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "828",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:30:00",
+              "arr": "2025-10-04T19:20:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "831",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:55:00",
+              "arr": "2025-10-10T11:40:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H35M"
+        }
+      ],
+      "id": "fl_0006f3b47d60"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "828",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:30:00",
+              "arr": "2025-10-04T19:20:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "839",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_0e696c340b65"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "831",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:55:00",
+              "arr": "2025-10-10T11:40:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H35M"
+        }
+      ],
+      "id": "fl_37fa87668224"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "839",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_dfc482a034f1"
+    },
+    {
+      "price": 1235.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "830",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T20:05:00",
+              "arr": "2025-10-05T06:55:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "829",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-10T23:50:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_79ce48ed624c"
+    },
+    {
+      "price": 1237.61,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "837",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T02:30:00",
+              "arr": "2025-10-10T05:15:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "701",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T08:00:00",
+              "arr": "2025-10-10T15:10:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT23H40M"
+        }
+      ],
+      "id": "fl_9a2a359c371b"
+    },
+    {
+      "price": 1237.61,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "835",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T20:00:00",
+              "arr": "2025-10-10T22:45:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H"
+        }
+      ],
+      "id": "fl_42dbc34e7b9f"
+    },
+    {
+      "price": 1237.61,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "831",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:55:00",
+              "arr": "2025-10-10T11:40:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H35M"
+        }
+      ],
+      "id": "fl_e5b8e048b5de"
+    },
+    {
+      "price": 1237.61,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "839",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T08:40:00",
+              "arr": "2025-10-10T11:25:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "705",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-10T15:20:00",
+              "arr": "2025-10-10T22:30:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT24H50M"
+        }
+      ],
+      "id": "fl_fb42eb4a3074"
+    },
+    {
+      "price": 1296.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "828",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T08:30:00",
+              "arr": "2025-10-04T19:20:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "829",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-10T23:50:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_945e68109fb4"
+    },
+    {
+      "price": 1296.01,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "702",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T22:00:00",
+              "arr": "2025-10-04T17:25:00",
+              "duration": "PT12H25M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT21H15M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "829",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-10T23:50:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_3cab21a57a5d"
+    },
+    {
+      "price": 1298.61,
+      "validatingAirlineCodes": [
+        "QR"
+      ],
+      "itineraries": [
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "704",
+              "from": "JFK",
+              "to": "DOH",
+              "dep": "2025-10-03T11:20:00",
+              "arr": "2025-10-04T06:40:00",
+              "duration": "PT12H20M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "838",
+              "from": "DOH",
+              "to": "BKK",
+              "dep": "2025-10-04T19:25:00",
+              "arr": "2025-10-05T06:15:00",
+              "duration": "PT6H50M"
+            }
+          ],
+          "duration": "PT31H55M"
+        },
+        {
+          "segments": [
+            {
+              "carrierCode": "QR",
+              "number": "829",
+              "from": "BKK",
+              "to": "DOH",
+              "dep": "2025-10-10T21:05:00",
+              "arr": "2025-10-10T23:50:00",
+              "duration": "PT6H45M"
+            },
+            {
+              "carrierCode": "QR",
+              "number": "703",
+              "from": "DOH",
+              "to": "JFK",
+              "dep": "2025-10-11T01:50:00",
+              "arr": "2025-10-11T09:00:00",
+              "duration": "PT14H10M"
+            }
+          ],
+          "duration": "PT22H55M"
+        }
+      ],
+      "id": "fl_e485dd9f627a"
+    }
+  ]
+}
