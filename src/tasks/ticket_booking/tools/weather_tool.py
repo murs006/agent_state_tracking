@@ -12,6 +12,13 @@ def _load_data() -> Dict[str, Dict[str, Dict[str, Any]]]:
     
 _WEATHER_DATA = _load_data()
 
+# Weather summaries
+SUMMARY_BY_CITY: Dict[str, str] = {
+    "Bangkok": "Hot, humid, lots of rain",
+    "Dubai": "Very hot, dry, no rain",
+    "Reykjavik": "Very cold with snow, little rain",
+}
+
 
 def get_weather(
     city: str,
@@ -54,3 +61,37 @@ def get_weather(
         cur += timedelta(days=1)
 
     return out
+
+
+def get_weather_summary(
+    city: str,
+    start: str,
+    end: str | None = None,
+) -> Dict[str, Any]:
+    """Return a compact, hardcoded summary for the city and date range.
+
+    Args:
+        city (str): The case-insensitive name of the city.
+        start (str): Start date in 'YYYY-MM-DD'.
+        end (str, optional): End date in 'YYYY-MM-DD'. Defaults to start.
+
+    Returns:
+        dict: { city, start, end, summary }
+    """
+    city_key = city.title()
+    if city_key not in _WEATHER_DATA:
+        raise ValueError(f"Unknown city: {city}")
+
+    end = end or start
+    # Validate date strings
+    cur: datetime = datetime.fromisoformat(start)
+    end_dt: datetime = datetime.fromisoformat(end)
+    if end_dt < cur:
+        raise ValueError("`end` date must be on or after `start` date.")
+
+    return {
+        "city": city_key,
+        "start": start,
+        "end": end,
+        "summary": SUMMARY_BY_CITY.get(city_key, ""),
+    }

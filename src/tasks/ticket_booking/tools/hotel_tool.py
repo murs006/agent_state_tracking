@@ -19,14 +19,14 @@ def load_json(path: Path) -> Dict[str, Any]:
         return {}
 
 
-def list_hotels(city: str, checkin: str, checkout: str, limit: int = 10) -> List[Dict[str, Any]]:
+def list_hotels(city: str, checkin: str, checkout: str, limit: int = 1) -> List[Dict[str, Any]]:
     """List hotel options from local JSON with cheapest offer details.
 
     Args:
         city: Destination city code (e.g., 'BKK').
         checkin: Check-in date YYYY-MM-DD.
         checkout: Check-out date YYYY-MM-DD.
-        limit: Max results to return.
+        limit: Max results to return (default 1).
 
     Returns:
         A list of dicts: {hotelId, name, offerId, priceTotal, currency, cancellable, description}.

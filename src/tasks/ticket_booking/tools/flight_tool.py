@@ -46,14 +46,14 @@ def _summarize_offer(offer: Dict[str, Any]) -> Tuple[Dict[str, Any] | None, Dict
     return outbound, ret_leg, total_dep, total_arr
 
 
-def list_flights(dest: str, dep: str, ret: str, limit: int = 8) -> List[Dict[str, Any]]:
+def list_flights(dest: str, dep: str, ret: str, limit: int = 1) -> List[Dict[str, Any]]:
     """List flight offers from local JSON and summarize each leg.
 
     Args:
         dest: Destination IATA code (e.g., 'BKK').
         dep: Outbound date YYYY-MM-DD.
         ret: Return date YYYY-MM-DD.
-        limit: Max results to return.
+        limit: Max results to return (default 1).
 
     Returns:
         A list of dicts: {id, price, dep_time, arr_time, outbound:{dep_time, arr_time, stops}, return:{dep_time, arr_time, stops}}.

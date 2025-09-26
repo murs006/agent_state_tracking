@@ -23,7 +23,7 @@ Budget (USD):
 
 What to do:
 1) Weather check
-- Call get_weather for each city (Bangkok, Dubai, Reykjavik) for the entire trip window (2025-10-01 to 2025-10-10).
+- Call get_weather_summary for each city (Bangkok, Dubai, Reykjavik) for the entire trip window (2025-10-01 to 2025-10-10).
 - The user preferes "warmer weather with lots of rain" and pick the best city based on this criteria.
 
 2) Search and compare (chosen city; try each span in order: 2025-10-01 to 2025-10-08, 2025-10-02 to 2025-10-09, 2025-10-03 to 2025-10-10)
@@ -43,12 +43,12 @@ What to do:
 Finish with a short summary (city, dates, and any confirmation_ids)."""
 
 
-BASELINE_SYSTEM_PROMPT = """You're a vacation planner. Use the tools exactly as defined. Don't invent IDs or data. Keep replies brief and call a tool when it moves things forward.\n""" + CONSTRAINTS
+BASELINE_SYSTEM_PROMPT = """You're a vacation planner. Use the tools exactly as defined. Don't invent IDs or data. Keep replies short and only call a tool if it makes progress.\n""" + CONSTRAINTS
 
 STATEFUL_SYSTEM_PROMPT = """You're a vacation planner. Use the tools exactly as defined. Never invent IDs or data. Keep replies short and only call a tool if it makes progress.
 
 - Always check state first.
-- weather_search_history: prior get_weather calls.
+- weather_checks: prior get_weather_summary calls (records with city, id, summary).
 - flights_XX_YY / hotels_XX_YY: record of past list_flights / list_hotels attempts.
   • If the record is empty, you haven't tried that span yet.
   • The result field of the record contains return value of tool call.

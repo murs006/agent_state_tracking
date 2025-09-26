@@ -112,3 +112,14 @@ Semantics:
 - Tool usage patterns (redundancy or discipline)
 
 ---
+
+## Plot results
+
+After running experiments, generate per-task success and completion rate plots from logs under `src/tasks/<task>/logs/`.
+
+Example usage:
+
+```bash
+# Scan all tasks under src/tasks and write plots to ./plots/
+python -m src.plot_results
+```

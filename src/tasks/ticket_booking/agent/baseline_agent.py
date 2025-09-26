@@ -5,7 +5,7 @@ from langgraph.prebuilt import ToolNode, tools_condition
 
 from ..tools.flight_tool import list_flights
 from ..tools.hotel_tool import list_hotels
-from ..tools.weather_tool import get_weather
+from ..tools.weather_tool import get_weather_summary
 from ..tools.booking_tool import book_hotel, book_flight
 from ..tools.currency_tool import convert_currency
 from .prompts import BASELINE_SYSTEM_PROMPT, USER_PROMPT
@@ -16,7 +16,7 @@ llm = ChatOpenAI(
     model="Qwen/Qwen3-32B",
 )
 
-tools = [list_flights, list_hotels, get_weather, book_hotel, book_flight, convert_currency]
+tools = [list_flights, list_hotels, get_weather_summary, book_hotel, book_flight, convert_currency]
 llm = llm.bind_tools(tools, parallel_tool_calls=False)
 
 sys_msg = SystemMessage(content=BASELINE_SYSTEM_PROMPT)
@@ -52,7 +52,7 @@ def run_baseline_trial(user_prompt: str | None = None, recursion_limit: int = 50
         {"recursion_limit": recursion_limit},
         stream_mode="updates",
     ):
-        # Each update is a dict keyed by node name ("assistant", "tools", etc.)
+        # Each update is a dict keyed by node name
         node_name = next(iter(update.keys()))
         node_payload = update[node_name]
 
